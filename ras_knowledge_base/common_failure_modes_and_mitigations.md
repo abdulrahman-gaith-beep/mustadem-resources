@@ -609,10 +609,11 @@ Power outages are potentially catastrophic for RAS because:
 - **Temperature drift:** Loss of heating/cooling
 - **No monitoring:** Inability to assess conditions
 
-**Time to Critical Conditions:**
-- High-density systems: 30 minutes to 2 hours
-- Moderate-density: 2-6 hours
-- Low-density: 6-24 hours
+**Time to Critical Conditions (Oxygen Depletion):**
+- **High-density systems (>80 kg/m³):** 30 minutes to 2 hours
+- **Moderate-density (40-80 kg/m³):** 2-6 hours
+- **Low-density (<40 kg/m³):** 6-24 hours
+- Warmer water and higher feeding rates reduce available time
 
 #### Prevention Strategies
 

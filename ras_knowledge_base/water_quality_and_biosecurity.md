@@ -574,6 +574,8 @@ Biosecurity encompasses all measures taken to prevent the introduction and sprea
 4. **Disinfection:**
    - After outbreak resolution, disinfect affected systems
    - Replace or clean biofilter media if contaminated
+     - **Replace media if:** Viral pathogen confirmed, mortality >50%, or repeated outbreaks in same system
+     - **Clean only if:** Bacterial/parasitic infection, mortality <20%, first occurrence
    - Implement enhanced biosecurity measures
 
 5. **Documentation:**
