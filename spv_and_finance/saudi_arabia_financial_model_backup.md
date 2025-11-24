@@ -194,7 +194,7 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 
 ---
 
-## 3. Capital Expenditure (CAPEX) Models - Detailed Breakdown
+## 3. Capital Expenditure (CAPEX) Models
 
 ### Small-Scale RAS: 50 Tons/Year Production
 
@@ -205,224 +205,45 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 - Tank capacity: 80-100 m³ total
 - Land requirement: 2,000-3,000 m²
 - Building: 500-800 m² enclosed facility
-- Power requirement: 200-300 kW
 
-**COMPREHENSIVE CAPEX BREAKDOWN (SAR):**
+**CAPEX Breakdown (SAR):**
 
-#### 3.1 Land & Site Development | SAR 1,400,000 - 5,200,000 (12-24%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Land Acquisition/Lease** | 1,000,000 | 4,500,000 | Varies by location |
-| - Urban/peri-urban (1,500-3,000 SAR/m²) | 3,000,000 | 9,000,000 | 2,000-3,000 m² |
-| - Semi-urban (500-1,500 SAR/m²) | 1,000,000 | 4,500,000 | |
-| - Rural (300-800 SAR/m²) | 600,000 | 2,400,000 | |
-| **Site Survey & Studies** | 30,000 | 75,000 | Soil, water, environmental |
-| - Geotechnical survey | 15,000 | 30,000 | Soil bearing capacity |
-| - Environmental impact assessment | 10,000 | 30,000 | Required >100 tons/year |
-| - Water quality analysis | 5,000 | 15,000 | Source water testing |
-| **Land Preparation & Earthworks** | 150,000 | 350,000 | |
-| - Site clearance & grading | 50,000 | 120,000 | Leveling, excavation |
-| - Excavation for foundations | 40,000 | 100,000 | Tanks, building footings |
-| - Drainage & grading | 30,000 | 70,000 | Surface water management |
-| - Access roads (internal) | 30,000 | 60,000 | Gravel/asphalt |
-| **Site Infrastructure** | 220,000 | 275,000 | |
-| - Fencing & security | 80,000 | 120,000 | Perimeter, gates, lighting |
-| - Landscaping & erosion control | 40,000 | 60,000 | |
-| - Signage | 10,000 | 15,000 | |
-| - Site office (temporary) | 90,000 | 80,000 | During construction |
-
-#### 3.2 Building & Infrastructure | SAR 3,400,000 - 5,800,000 (24-29%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Main Production Building** | 2,000,000 | 3,500,000 | 500-800 m² |
-| - Structural steel frame | 600,000 | 1,000,000 | Pre-engineered metal building |
-| - Roof & wall panels | 400,000 | 700,000 | Insulated sandwich panels |
-| - Concrete floor (reinforced) | 300,000 | 500,000 | Load-bearing, waterproofed |
-| - Doors & windows | 100,000 | 200,000 | Industrial, emergency exits |
-| - Interior walls & partitions | 200,000 | 400,000 | Fish handling, processing |
-| - Ceiling & suspended systems | 150,000 | 300,000 | Moisture-resistant |
-| - Painting & finishes | 100,000 | 200,000 | Epoxy, waterproof coatings |
-| - Foundation & footings | 150,000 | 200,000 | For building & tanks |
-| **HVAC & Climate Control** | 600,000 | 1,200,000 | Critical for Saudi climate |
-| - Industrial AC units (150-250 tons) | 350,000 | 700,000 | Multiple units, redundancy |
-| - Ventilation & air circulation | 100,000 | 200,000 | Fans, ducting |
-| - Heating system (winter) | 50,000 | 100,000 | Backup for cold nights |
-| - Humidity control & dehumidifiers | 50,000 | 100,000 | Prevent condensation |
-| - Thermal insulation (walls, roof) | 50,000 | 100,000 | R-30+ insulation value |
-| **Office, Lab & Support Areas** | 250,000 | 450,000 | 100-150 m² |
-| - Office space | 100,000 | 180,000 | Manager, admin, meeting room |
-| - Laboratory | 80,000 | 150,000 | Water testing, fish health |
-| - Break room & facilities | 40,000 | 70,000 | Kitchen, bathroom, lockers |
-| - Storage rooms | 30,000 | 50,000 | Feed, chemicals, supplies |
-| **Processing & Harvest Area** | 180,000 | 300,000 | 50-100 m² |
-| - Processing room (clean) | 100,000 | 180,000 | Stainless steel surfaces |
-| - Cold storage/chiller | 60,000 | 100,000 | Walk-in cooler |
-| - Ice machine | 20,000 | 20,000 | For harvest & transport |
-| **Miscellaneous** | 370,000 | 350,000 | |
-| - Fire suppression system | 80,000 | 120,000 | Sprinklers, extinguishers |
-| - Security system | 50,000 | 80,000 | Cameras, alarms, access control |
-| - Communication & IT | 40,000 | 60,000 | Internet, phones, computers |
-| - Plumbing (non-RAS) | 100,000 | 150,000 | Domestic water, sewage |
-| - Lighting (interior/exterior) | 100,000 | 150,000 | LED, emergency lighting |
-
-#### 3.3 RAS Equipment & Systems | SAR 4,800,000 - 7,200,000 (35-40%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Fish Culture Tanks** | 900,000 | 1,400,000 | 80-100 m³ total |
-| - Circular HDPE tanks (4-6 units) | 600,000 | 900,000 | 15-20 m³ each |
-| - Tank stands & supports | 150,000 | 250,000 | Structural steel |
-| - Tank covers & screens | 50,000 | 100,000 | Bird/debris protection |
-| - Bottom drains & fittings | 100,000 | 150,000 | Central drains, valves |
-| **Mechanical Filtration** | 450,000 | 700,000 | Solid waste removal |
-| - Drum filters (2 units) | 250,000 | 400,000 | Primary solids removal |
-| - Sludge collection system | 100,000 | 150,000 | Pumps, settling cones |
-| - Backwash system | 50,000 | 80,000 | Automatic cleaning |
-| - Pre-filters & screens | 50,000 | 70,000 | Coarse filtration |
-| **Biological Filtration** | 650,000 | 1,000,000 | Nitrification |
-| - MBBR biofilters (2-3 units) | 400,000 | 600,000 | Moving bed bio-reactor |
-| - Bio-media | 150,000 | 250,000 | Plastic carriers, 60% fill |
-| - Blowers for biofilter aeration | 80,000 | 120,000 | Regenerative blowers |
-| - Biofilter tanks & housing | 20,000 | 30,000 | HDPE or concrete |
-| **Pumps & Circulation** | 350,000 | 550,000 | |
-| - Main circulation pumps (3-4 units) | 200,000 | 300,000 | 50-100 m³/hr each, VFD |
-| - Backup pumps | 80,000 | 120,000 | Redundancy critical |
-| - Airlift pumps | 30,000 | 60,000 | For sludge, gentle handling |
-| - Booster pumps | 40,000 | 70,000 | Pressure management |
-| **Aeration & Oxygenation** | 600,000 | 950,000 | Dissolved oxygen control |
-| - Oxygen generators (PSA/VPSA) | 350,000 | 600,000 | On-site O2 production |
-| - Oxygen cones/diffusers | 100,000 | 150,000 | Efficient gas transfer |
-| - Emergency aeration (blowers) | 80,000 | 120,000 | Battery backup capable |
-| - Air stones & diffusers | 40,000 | 50,000 | Fine bubble diffusion |
-| - O2 monitoring & control valves | 30,000 | 30,000 | Automated dosing |
-| **Water Disinfection** | 220,000 | 350,000 | Pathogen control |
-| - UV sterilizers (80-120 W/m³) | 150,000 | 250,000 | Multiple units |
-| - Ozone generator (optional) | 50,000 | 80,000 | Advanced disinfection |
-| - UV lamp replacement (initial stock) | 20,000 | 20,000 | 6-12 month supply |
-| **Temperature Control** | 280,000 | 450,000 | Heating/cooling |
-| - Water heaters (electric/heat pump) | 150,000 | 250,000 | 50-100 kW capacity |
-| - Chillers (for warm months) | 100,000 | 150,000 | 30-50 kW cooling |
-| - Heat exchangers | 30,000 | 50,000 | Efficient heat transfer |
-| **Monitoring & Automation (SCADA)** | 450,000 | 800,000 | |
-| - PLC & control panels | 150,000 | 250,000 | Programmable logic controller |
-| - DO, pH, temp sensors (15-20) | 100,000 | 200,000 | Online probes |
-| - Ammonia/nitrite sensors | 80,000 | 150,000 | Advanced sensors |
-| - Camera systems (tank monitoring) | 40,000 | 70,000 | IP cameras, recording |
-| - Data acquisition & SCADA software | 50,000 | 100,000 | Cloud-enabled |
-| - Alarm system (SMS, email) | 30,000 | 30,000 | Multi-channel alerts |
-| **Piping, Valves & Fittings** | 450,000 | 700,000 | |
-| - PVC/HDPE piping (3-12" diameter) | 250,000 | 400,000 | Miles of piping |
-| - Ball valves, check valves | 100,000 - 150,000 | | Automated & manual |
-| - Unions, elbows, tees, adapters | 60,000 | 100,000 | Thousands of fittings |
-| - Pipe supports & hangers | 40,000 | 50,000 | Structural support |
-| **Emergency & Backup Systems** | 450,000 | 650,000 | Business continuity |
-| - Backup power (generator 300-400 kVA) | 250,000 | 400,000 | Auto-start diesel |
-| - UPS for critical systems | 80,000 | 100,000 | 30-60 min runtime |
-| - Emergency oxygen cylinders | 40,000 | 60,000 | Manual backup |
-| - Water storage tanks (emergency) | 80,000 | 90,000 | 50-100 m³ reserve |
-
-#### 3.4 Utilities Installation | SAR 1,100,000 - 2,100,000 (8-11%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Electrical Installation** | 500,000 | 950,000 | |
-| - 3-phase service connection | 150,000 | 300,000 | Utility company fees |
-| - Main distribution panel | 100,000 | 150,000 | 600-800A capacity |
-| - Sub-panels & circuit breakers | 80,000 | 150,000 | Multiple zones |
-| - Wiring & conduit | 120,000 | 250,000 | Throughout facility |
-| - Motor starters & VFDs | 50,000 | 100,000 | Variable frequency drives |
-| **Water Supply & Storage** | 350,000 | 700,000 | |
-| - Municipal water connection | 100,000 | 250,000 | Pipe, meter, fees |
-| - Borewell (if needed) | 150,000 | 350,000 | 100-200m depth |
-| - Water storage tanks (100-200 m³) | 80,000 | 150,000 | For makeup water |
-| - Water treatment (RO optional) | 20,000 | 50,000 | If water quality poor |
-| **Wastewater & Drainage** | 250,000 | 450,000 | |
-| - Effluent treatment system | 150,000 | 300,000 | Settling, biofilter |
-| - Drainage pipes & channels | 60,000 | 100,000 | Floor drains, trenches |
-| - Septic/sewage system | 40,000 | 50,000 | Domestic waste |
-
-#### 3.5 Shipping, Transportation & Installation | SAR 800,000 - 1,300,000 (6-7%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Equipment Shipping** | 400,000 | 650,000 | International & domestic |
-| - International freight (40% of equipment) | 250,000 | 400,000 | Sea/air freight, customs |
-| - Domestic transport | 100,000 | 180,000 | From port to site |
-| - Insurance during transport | 30,000 | 50,000 | Cargo insurance |
-| - Customs clearance & duties | 20,000 | 20,000 | Import fees |
-| **Installation & Commissioning** | 400,000 | 650,000 | 10-15% of equipment cost |
-| - Equipment installation labor | 250,000 | 400,000 | Specialized technicians |
-| - Cranes & heavy equipment rental | 60,000 | 100,000 | Tank, equipment placement |
-| - System integration & testing | 60,000 | 100,000 | All systems operational |
-| - Startup & biofilter seeding | 30,000 | 50,000 | 2-3 months commissioning |
-
-#### 3.6 Initial Inventory & Working Capital | SAR 350,000 - 650,000 (3-4%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Fingerlings (Initial Stocking)** | 180,000 | 350,000 | First 2-3 batches |
-| - Tilapia fingerlings (30,000) | 60,000 | 120,000 | SAR 2-4 each |
-| - Barramundi fingerlings (15,000) | 90,000 | 180,000 | SAR 6-12 each |
-| - Contingency (mortalities) | 30,000 | 50,000 | 10-15% extra |
-| **Feed (3 Months Supply)** | 120,000 | 220,000 | |
-| - Starter feed | 40,000 | 70,000 | Small pellet sizes |
-| - Grower feed | 50,000 | 100,000 | Multiple sizes |
-| - Finisher feed | 30,000 | 50,000 | Large pellets |
-| **Chemicals & Supplies** | 50,000 | 80,000 | 3-6 months |
-| - Water treatment chemicals | 15,000 | 25,000 | pH buffers, salt |
-| - Disinfectants & cleaning | 10,000 | 20,000 | Bleach, iodine |
-| - Test kits & reagents | 15,000 | 25,000 | Water quality testing |
-| - Nets, buckets, tools | 10,000 | 10,000 | Harvest equipment |
-
-#### 3.7 Pre-Operating Expenses | SAR 550,000 - 1,100,000 (4-6%)
-
-| Sub-Category | Low (SAR) | High (SAR) | Notes |
-|--------------|-----------|------------|-------|
-| **Professional Services** | 300,000 | 600,000 | |
-| - Engineering & design | 150,000 | 350,000 | Detailed drawings, specs |
-| - Project management | 80,000 | 150,000 | Oversee construction |
-| - Legal & accounting setup | 40,000 | 60,000 | Company formation |
-| - Insurance (pre-operating) | 30,000 | 40,000 | Construction insurance |
-| **Permits & Licensing** | 110,000 | 220,000 | |
-| - Aquaculture license (MEWA) | 30,000 | 80,000 | Application, processing |
-| - Environmental permits | 30,000 | 60,000 | Impact assessment, discharge |
-| - Building permits | 20,000 | 40,000 | Construction approval |
-| - SFDA food safety registration | 20,000 | 30,000 | Product certification |
-| - BAP certification (initial) | 10,000 | 10,000 | Best Aquaculture Practices |
-| **Staff Recruitment & Training** | 90,000 | 180,000 | |
-| - Recruitment costs | 20,000 | 40,000 | Advertising, headhunter |
-| - Pre-opening salaries (3 months) | 50,000 | 100,000 | Manager, key staff |
-| - Training programs | 20,000 | 40,000 | RAS operations, safety |
-| **Marketing & Branding** | 50,000 | 100,000 | |
-| - Brand development | 20,000 | 40,000 | Logo, packaging design |
-| - Website & digital presence | 15,000 | 30,000 | E-commerce ready |
-| - Initial marketing materials | 15,000 | 30,000 | Brochures, samples |
-
-#### 3.8 Contingency (20%) | SAR 2,470,000 - 4,870,000 (20%)
-
-**Purpose**: Unforeseen costs, price increases, scope changes, delays
-- Typically 15-25% of base CAPEX
-- Saudi Arabia: 20% recommended due to import dependencies
-
----
-
-### **TOTAL SMALL-SCALE (50 TON) CAPEX SUMMARY**
-
-| Category | Low (SAR) | High (SAR) | Avg (SAR) | % Range |
-|----------|-----------|------------|-----------|---------|
-| Land & Site Development | 1,400,000 | 5,200,000 | 3,300,000 | 12-24% |
-| Building & Infrastructure | 3,400,000 | 5,800,000 | 4,600,000 | 24-29% |
-| RAS Equipment & Systems | 4,800,000 | 7,200,000 | 6,000,000 | 35-40% |
-| Utilities Installation | 1,100,000 | 2,100,000 | 1,600,000 | 8-11% |
-| Shipping & Installation | 800,000 | 1,300,000 | 1,050,000 | 6-7% |
-| Initial Inventory | 350,000 | 650,000 | 500,000 | 3-4% |
-| Pre-Operating Expenses | 550,000 | 1,100,000 | 825,000 | 4-6% |
-| **Subtotal (before contingency)** | **12,400,000** | **23,350,000** | **17,875,000** | **80%** |
-| Contingency (20%) | 2,470,000 | 4,870,000 | 3,670,000 | 20% |
-| **TOTAL CAPEX** | **14,870,000** | **28,220,000** | **21,545,000** | **100%** |
-| **TOTAL CAPEX (USD @ 3.75)** | **3,965,000** | **7,525,000** | **5,745,000** | |
+| Item | Cost Range (SAR) | Cost Range (USD) | % of Total |
+|------|------------------|------------------|------------|
+| **Land Acquisition** | 1,000,000 - 4,500,000 | 267,000 - 1,200,000 | 10-25% |
+| - Urban area | 1,500 - 3,000/m² | | |
+| - Semi-urban | 500 - 1,500/m² | | |
+| **Building & Infrastructure** | 3,000,000 - 5,000,000 | 800,000 - 1,333,000 | 25-30% |
+| - Climate-controlled structure | 2,000,000 - 3,000,000 | | |
+| - HVAC system | 500,000 - 1,000,000 | | |
+| - Insulation (critical) | 300,000 - 600,000 | | |
+| - Office, storage, processing | 200,000 - 400,000 | | |
+| **RAS Equipment** | 4,000,000 - 6,000,000 | 1,067,000 - 1,600,000 | 35-40% |
+| - Fish tanks (80-100 m³) | 800,000 - 1,200,000 | | |
+| - Biofilters (MBBR) | 600,000 - 900,000 | | |
+| - Mechanical filtration | 400,000 - 600,000 | | |
+| - Pumps (primary + backup) | 300,000 - 500,000 | | |
+| - Aeration/oxygen system | 500,000 - 800,000 | | |
+| - UV/Ozone disinfection | 200,000 - 300,000 | | |
+| - Monitoring & SCADA | 400,000 - 700,000 | | |
+| - Piping, valves, fittings | 400,000 - 600,000 | | |
+| - Emergency backup systems | 400,000 - 600,000 | | |
+| **Utilities Installation** | 1,000,000 - 2,000,000 | 267,000 - 533,000 | 8-12% |
+| - Electrical (3-phase, 200-300 kW) | 400,000 - 800,000 | | |
+| - Water connection & storage | 300,000 - 600,000 | | |
+| - Drainage system | 200,000 - 400,000 | | |
+| - Backup generator | 100,000 - 200,000 | | |
+| **Initial Inventory** | 300,000 - 600,000 | 80,000 - 160,000 | 3-4% |
+| - Fingerlings (initial stocking) | 150,000 - 300,000 | | |
+| - Feed (2-3 months) | 100,000 - 200,000 | | |
+| - Chemicals & supplies | 50,000 - 100,000 | | |
+| **Pre-Operating Expenses** | 500,000 - 1,000,000 | 133,000 - 267,000 | 4-6% |
+| - Engineering & design | 200,000 - 400,000 | | |
+| - Permits & licensing | 100,000 - 200,000 | | |
+| - Staff training | 100,000 - 200,000 | | |
+| - Marketing setup | 100,000 - 200,000 | | |
+| **Contingency (20%)** | 1,960,000 - 3,820,000 | 523,000 - 1,019,000 | 20% |
+| **TOTAL CAPEX** | **11,760,000 - 22,920,000** | **3,136,000 - 6,112,000** | **100%** |
 
 **Financing Structure (50-ton system, SAR 15M average):**
 - Equity: SAR 4.5M (30%) - SAR 120,000/month for 3 years
