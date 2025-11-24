@@ -321,7 +321,7 @@ Biosecurity encompasses all measures taken to prevent the introduction and sprea
 
 **UV Sterilization:**
 - Effective against bacteria, viruses, parasites
-- Dose: 30-100 mW·s/cm² for water disinfection
+- Dose: 30-100 mWs/cm² for water disinfection
 - Requires pre-filtration to remove suspended solids
 - Maintain bulbs (replace annually or per manufacturer specs)
 

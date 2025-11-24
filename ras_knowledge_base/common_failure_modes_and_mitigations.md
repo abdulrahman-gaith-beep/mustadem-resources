@@ -6,7 +6,7 @@ Recirculating Aquaculture Systems (RAS) are complex, interconnected systems wher
 
 This document identifies the most common failure modes in RAS operations, their causes, symptoms, prevention strategies, and emergency response procedures. Proactive risk management through redundancy, maintenance, and rapid response protocols can prevent or minimize the impact of system failures.
 
-##System Failure Categories
+## System Failure Categories
 
 RAS failures can be grouped into four main categories:
 

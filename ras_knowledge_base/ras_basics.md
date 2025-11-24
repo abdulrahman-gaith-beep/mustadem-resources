@@ -320,6 +320,9 @@ A properly designed RAS integrates several key components that work together to 
 
 Even with 90-99% recirculation, some water exchange is necessary:
 - **Daily exchange:** Typically 5-10% of total system volume
+  - 5% daily: Established systems with low stocking density, stable water quality
+  - 7-8% daily: Moderate density systems, typical operational range  
+  - 10% daily: High density systems, intensive production, or during water quality challenges
 - **Reasons:** Remove nitrate, replenish minerals (calcium, magnesium), dilute dissolved organics
 
 **Makeup Water Sources:**
