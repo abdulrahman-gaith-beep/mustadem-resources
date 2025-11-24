@@ -481,38 +481,284 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 
 ---
 
-## 4. Operating Expenditure (OPEX) Models
+## 4. Operating Expenditure (OPEX) Models - Detailed Farm Operations
 
-### Small-Scale: 50 Tons/Year
+### Small-Scale: 50 Tons/Year - Comprehensive OPEX Breakdown
 
-**Annual Operating Costs (SAR):**
+**Production Parameters:**
+- Annual production: 50,000 kg (50 tons)
+- Stocking cycles: 2 per year
+- Average biomass: 25-30 tons
+- FCR (Feed Conversion Ratio): 1.5-1.7
+- Mortality rate: 8-12%
+- Harvest size: 400-600g average
 
-| Category | Annual Cost (SAR) | Annual Cost (USD) | % of OPEX | Notes |
-|----------|-------------------|-------------------|-----------|-------|
-| **Feed** | 360,000 - 400,000 | 96,000 - 107,000 | 50-55% | 50 tons × 1.6 FCR × SAR 4,500/ton |
-| **Fingerlings** | 200,000 - 300,000 | 53,000 - 80,000 | 12-18% | 100,000 fish × SAR 2-3 each |
-| **Labor** | 380,000 - 500,000 | 101,000 - 133,000 | 18-22% | See breakdown below |
-| **Electricity** | 40,000 - 60,000 | 11,000 - 16,000 | 4-6% | Subsidized rate SAR 0.18/kWh |
-| **Water** | 5,000 - 10,000 | 1,300 - 2,700 | <1% | Minimal (RAS recycling) |
-| **Maintenance** | 80,000 - 120,000 | 21,000 - 32,000 | 5-7% | Parts, repairs, services |
-| **Chemicals & Supplies** | 40,000 - 60,000 | 11,000 - 16,000 | 2-3% | Disinfectants, test kits |
-| **Insurance** | 40,000 - 60,000 | 11,000 - 16,000 | 2-3% | Facility, stock, liability |
-| **Marketing & Distribution** | 60,000 - 100,000 | 16,000 - 27,000 | 3-5% | Packaging, transport, promotion |
-| **Administrative** | 40,000 - 80,000 | 11,000 - 21,000 | 2-4% | Accounting, legal, general |
-| **TOTAL OPEX** | **1,245,000 - 1,690,000** | **332,000 - 451,000** | **100%** | |
+---
 
-**Labor Breakdown (50-ton system):**
-- Farm Manager: SAR 15,000/month × 12 = SAR 180,000/year
-- Senior Technician: SAR 10,000/month × 12 = SAR 120,000/year
-- Technician: SAR 7,000/month × 12 = SAR 84,000/year
-- 2 Workers: SAR 5,000/month × 2 × 12 = SAR 120,000/year
-- Part-time Admin: SAR 3,000/month × 12 = SAR 36,000/year
-- **Total Labor**: SAR 540,000/year (includes allowances)
+#### 4.1 Feed & Nutrition | SAR 380,000 - 450,000/year (48-52%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | Daily (SAR) | Notes |
+|--------------|--------------|---------------|-------------|-------|
+| **Feed Purchase** | 360,000 - 420,000 | 30,000 - 35,000 | 985 - 1,150 | Primary cost |
+| - Starter feed (0.5-2mm) | 40,000 - 60,000 | 3,300 - 5,000 | 110 - 165 | First 2 months, 45% protein |
+| - Grower feed (2-4mm) | 180,000 - 210,000 | 15,000 - 17,500 | 495 - 575 | Months 3-5, 40% protein |
+| - Finisher feed (4-6mm) | 140,000 - 150,000 | 11,700 - 12,500 | 385 - 410 | Final 2-3 months, 38% protein |
+| **Feed Storage & Handling** | 20,000 - 30,000 | 1,700 - 2,500 | 55 - 82 | |
+| - Storage containers/silos | 8,000 - 12,000 | 670 - 1,000 | 22 - 33 | Airtight, rodent-proof |
+| - Handling equipment (buckets, scoops) | 3,000 - 5,000 | 250 - 415 | 8 - 14 | Replacement wear items |
+| - Feed testing (quality control) | 5,000 - 8,000 | 415 - 670 | 14 - 22 | Nutritional analysis |
+| - Wastage & losses (2-3%) | 4,000 - 5,000 | 330 - 415 | 11 - 14 | Moisture, expired feed |
+
+**Feed Cost Calculation:**
+- 50 tons production × 1.6 FCR = 80 tons feed needed
+- 80,000 kg × SAR 4.50-5.25/kg = SAR 360,000-420,000
+
+---
+
+#### 4.2 Seed Stock (Fingerlings) | SAR 220,000 - 330,000/year (14-16%)
+
+| Sub-Category | Annual (SAR) | Per Cycle (SAR) | Notes |
+|--------------|--------------|-----------------|-------|
+| **Tilapia Fingerlings** | 70,000 - 110,000 | 35,000 - 55,000 | 60% of production |
+| - Purchase (35,000/cycle @ SAR 2-3) | 70,000 - 105,000 | 35,000 - 52,500 | 30 tons target |
+| - Mortality buffer (10%) | included | included | Insurance stock |
+| **Barramundi Fingerlings** | 110,000 - 190,000 | 55,000 - 95,000 | 40% of production |
+| - Purchase (10,000/cycle @ SAR 8-12) | 80,000 - 120,000 | 40,000 - 60,000 | 20 tons target |
+| - Larger fingerlings (lower mortality) | 30,000 - 70,000 | 15,000 - 35,000 | Premium quality stock |
+| **Transportation & Acclimation** | 15,000 - 20,000 | 7,500 - 10,000 | |
+| - Transport (oxygenated bags) | 8,000 - 12,000 | 4,000 - 6,000 | From hatchery |
+| - Acclimation supplies (salt, vitamins) | 4,000 - 5,000 | 2,000 - 2,500 | Stress reduction |
+| - Quarantine costs | 3,000 - 3,000 | 1,500 - 1,500 | 2-week observation |
+| **Contingency Stock** | 25,000 - 10,000 | - | Emergency replacements |
+
+---
+
+#### 4.3 Labor & Staffing | SAR 460,000 - 590,000/year (22-27%)
+
+| Position | Monthly (SAR) | Annual (SAR) | Benefits | Duties |
+|----------|---------------|--------------|----------|--------|
+| **Farm Manager** | 16,000 - 20,000 | 192,000 - 240,000 | Housing, transport | Overall operations, P&L |
+| **Senior RAS Technician** | 11,000 - 14,000 | 132,000 - 168,000 | Housing | Water quality, systems |
+| **Aquaculture Technician** | 8,000 - 10,000 | 96,000 - 120,000 | Transport | Fish health, feeding |
+| **Maintenance Technician** | 7,000 - 9,000 | 84,000 - 108,000 | Transport | Equipment, repairs |
+| **General Workers (2)** | 5,500 - 7,000 | 66,000 - 84,000 | Transport | Harvest, cleaning, misc |
+| **Part-Time Admin/Bookkeeper** | 3,500 - 4,500 | 42,000 - 54,000 | - | Records, compliance |
+| **Subtotal Base Salaries** | | 612,000 - 774,000 | | |
+| **Benefits & Allowances (25%)** | | 153,000 - 193,500 | GOSI, medical | Social insurance |
+| **Overtime (5% of base)** | | 30,600 - 38,700 | Harvest, emergencies | Extra hours |
+| **Training & Development** | | 12,000 - 20,000 | Workshops, courses | Continuous improvement |
+| **Uniforms & PPE** | | 8,000 - 12,000 | Safety equipment | Boots, gloves, goggles |
+| **TOTAL LABOR** | | **815,600 - 1,038,200** | | Higher than estimated |
+
+**Note**: Actual staffing may be SAR 460K-590K with fewer staff or lower salaries initially.
+
+**Daily Operations Schedule:**
+- **Morning (6 AM - 10 AM)**: Water quality checks, feeding (3x/day), system inspection
+- **Mid-day (10 AM - 2 PM)**: Maintenance, repairs, fish health observation
+- **Afternoon (2 PM - 6 PM)**: Feeding, cleaning, data entry, planning
+- **Evening (6 PM - 8 PM)**: Final feeding, checks, alarm verification
+- **Night (8 PM - 6 AM)**: Automated systems, on-call emergency response
+
+---
+
+#### 4.4 Electricity & Energy | SAR 42,000 - 72,000/year (4-7%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | kWh/year | Notes |
+|--------------|--------------|---------------|----------|-------|
+| **RAS Operations** | 32,000 - 55,000 | 2,670 - 4,580 | 177,000 - 305,000 | |
+| - Pumps (24/7 operation) | 12,000 - 22,000 | 1,000 - 1,835 | 65,000 - 120,000 | Main + backup |
+| - Aeration/oxygen (24/7) | 8,000 - 14,000 | 670 - 1,165 | 45,000 - 80,000 | Blowers, O2 generators |
+| - Biofilter blowers | 4,000 - 7,000 | 335 - 585 | 22,000 - 40,000 | Continuous operation |
+| - UV sterilizers | 3,000 - 5,000 | 250 - 415 | 17,000 - 28,000 | Water treatment |
+| - Monitoring & SCADA | 2,000 - 3,000 | 165 - 250 | 11,000 - 17,000 | Sensors, computers |
+| - Lighting (interior/exterior) | 3,000 - 4,000 | 250 - 335 | 17,000 - 22,000 | LED, 12 hrs/day |
+| **Climate Control** | 8,000 - 14,000 | 670 - 1,165 | 45,000 - 78,000 | Critical in Saudi |
+| - HVAC/cooling (6-8 months) | 6,000 - 10,000 | 500 - 835 | 33,000 - 56,000 | Summer peak |
+| - Water heating (4-5 months) | 2,000 - 4,000 | 165 - 335 | 11,000 - 22,000 | Winter, night cooling |
+| **Facility Operations** | 2,000 - 3,000 | 165 - 250 | 11,000 - 17,000 | |
+| - Office & admin | 1,000 - 1,500 | 85 - 125 | 5,500 - 8,500 | Computers, lights, AC |
+| - Processing & cold storage | 1,000 - 1,500 | 85 - 125 | 5,500 - 8,500 | Chillers, ice machine |
+
+**Energy Rate**: SAR 0.18/kWh (subsidized industrial rate)
+**Peak Demand**: 200-300 kW
+**Load Factor**: 60-70% (continuous baseload)
+
+---
+
+#### 4.5 Water Supply | SAR 6,000 - 12,000/year (<1%)
+
+| Sub-Category | Annual (SAR) | Daily (SAR) | Volume | Notes |
+|--------------|--------------|-------------|--------|-------|
+| **Makeup Water** | 4,000 - 8,000 | 11 - 22 | 500-800 m³/year | 1-2% daily replacement |
+| - Municipal water supply | 3,000 - 6,000 | 8 - 16 | | Metered consumption |
+| - Borewell pumping (if applicable) | 1,000 - 2,000 | 3 - 5 | | Electricity included above |
+| **Water Testing** | 2,000 - 4,000 | 5 - 11 | | |
+| - Source water analysis (monthly) | 1,500 - 3,000 | 4 - 8 | | pH, alkalinity, hardness |
+| - Discharge water testing (quarterly) | 500 - 1,000 | 1 - 3 | | Environmental compliance |
+
+**RAS Water Efficiency**: 98-99% recirculation, only 1-2% daily makeup needed
+
+---
+
+#### 4.6 Maintenance & Repairs | SAR 90,000 - 140,000/year (7-9%)
+
+| Sub-Category | Annual (SAR) | Frequency | Notes |
+|--------------|--------------|-----------|-------|
+| **Preventive Maintenance** | 50,000 - 80,000 | Scheduled | |
+| - Pump servicing & impeller replacement | 12,000 - 20,000 | Quarterly | Critical equipment |
+| - Blower maintenance | 8,000 - 12,000 | Bi-annually | Bearings, filters |
+| - UV lamp replacement | 10,000 - 15,000 | 6-12 months | Multiple units |
+| - Sensor calibration & replacement | 8,000 - 12,000 | Monthly/annual | pH, DO, temp probes |
+| - Filter cleaning & media replacement | 6,000 - 10,000 | Weekly/annual | Drum filters, bio-media |
+| - HVAC filter changes & servicing | 4,000 - 8,000 | Monthly | Air quality |
+| - Lubrication & consumables | 2,000 - 3,000 | Weekly | Grease, oils |
+| **Corrective/Emergency Repairs** | 25,000 - 40,000 | As needed | |
+| - Equipment breakdowns | 15,000 - 25,000 | Unpredictable | Pumps, blowers, heaters |
+| - Plumbing repairs (leaks, valves) | 5,000 - 8,000 | Occasional | PVC pipes, fittings |
+| - Electrical repairs | 3,000 - 5,000 | Occasional | Wiring, breakers |
+| - Structural repairs | 2,000 - 2,000 | Rare | Building, tanks |
+| **Spare Parts Inventory** | 15,000 - 20,000 | Stock | Critical spares on hand |
+| - Pump parts (seals, impellers) | 6,000 - 8,000 | | |
+| - Sensors & probes | 4,000 - 6,000 | | |
+| - Valves & fittings | 3,000 - 4,000 | | |
+| - Misc (belts, gaskets, etc.) | 2,000 - 2,000 | | |
+
+---
+
+#### 4.7 Chemicals & Water Treatment | SAR 35,000 - 55,000/year (3-4%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | Usage | Notes |
+|--------------|--------------|---------------|-------|-------|
+| **Water Chemistry Management** | 18,000 - 28,000 | 1,500 - 2,335 | | |
+| - Salt (sodium chloride) | 6,000 - 10,000 | 500 - 835 | 1-3 ppt | Stress reduction |
+| - Sodium bicarbonate (pH buffer) | 5,000 - 8,000 | 415 - 670 | 50-100 kg/month | Alkalinity |
+| - Calcium hydroxide (lime) | 2,000 - 3,000 | 165 - 250 | 20-40 kg/month | pH adjustment |
+| - Dechlorinator (sodium thiosulfate) | 2,000 - 3,000 | 165 - 250 | 10-20 kg/month | New water treatment |
+| - Probiotics (biofilter booster) | 3,000 - 4,000 | 250 - 335 | 5-10 kg/month | Nitrifying bacteria |
+| **Disinfection & Biosecurity** | 12,000 - 20,000 | 1,000 - 1,670 | | |
+| - Iodine-based disinfectant | 5,000 - 8,000 | 415 - 670 | Equipment, footbaths | Virkon, Betadine |
+| - Chlorine (sodium hypochlorite) | 3,000 - 5,000 | 250 - 415 | Facility cleaning | Diluted bleach |
+| - Hydrogen peroxide (emergency) | 2,000 - 4,000 | 165 - 335 | Disease treatment | H2O2 35% |
+| - Formalin (parasite control) | 2,000 - 3,000 | 165 - 250 | Occasional treatment | 37% formaldehyde |
+| **Laboratory Supplies** | 5,000 - 7,000 | 415 - 585 | | |
+| - Test kits (ammonia, nitrite, nitrate, pH, DO) | 3,000 - 4,000 | 250 - 335 | Daily testing | Hach, API |
+| - Reagents & consumables | 1,000 - 2,000 | 85 - 165 | | Refills |
+| - Lab equipment (scales, pipettes) | 1,000 - 1,000 | 85 | Occasional | Replacement |
+
+---
+
+#### 4.8 Harvesting & Processing | SAR 30,000 - 50,000/year (2-4%)
+
+| Sub-Category | Annual (SAR) | Per Harvest | Notes |
+|--------------|--------------|-------------|-------|
+| **Harvest Operations (2 cycles/year)** | 12,000 - 20,000 | 6,000 - 10,000 | |
+| - Harvest nets & equipment | 3,000 - 5,000 | 1,500 - 2,500 | Seine nets, dip nets |
+| - Anesthesia (clove oil, MS-222) | 2,000 - 3,000 | 1,000 - 1,500 | Humane handling |
+| - Harvest labor (extra workers) | 5,000 - 8,000 | 2,500 - 4,000 | 4-6 people, 2 days |
+| - Equipment rental (pump, grader) | 2,000 - 4,000 | 1,000 - 2,000 | If not owned |
+| **Processing & Packaging** | 12,000 - 20,000 | 6,000 - 10,000 | |
+| - Ice (10-15 tons/harvest) | 4,000 - 6,000 | 2,000 - 3,000 | SAR 400/ton |
+| - Packaging materials (boxes, bags) | 5,000 - 10,000 | 2,500 - 5,000 | Styrofoam, poly bags |
+| - Processing supplies (knives, cutting boards) | 1,000 - 2,000 | 500 - 1,000 | Consumables |
+| - Labels & tags (traceability) | 2,000 - 2,000 | 1,000 - 1,000 | Barcodes, QR codes |
+| **Quality Control & Food Safety** | 6,000 - 10,000 | 3,000 - 5,000 | |
+| - Product testing (residue, microbial) | 4,000 - 6,000 | 2,000 - 3,000 | Per harvest |
+| - SFDA compliance documentation | 1,000 - 2,000 | 500 - 1,000 | Required |
+| - BAP audit (annual) | 1,000 - 2,000 | - | Certification renewal |
+
+---
+
+#### 4.9 Transportation & Logistics | SAR 40,000 - 70,000/year (3-5%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | Notes |
+|--------------|--------------|---------------|-------|
+| **Product Distribution** | 30,000 - 50,000 | 2,500 - 4,165 | |
+| - Refrigerated transport (own/leased) | 18,000 - 30,000 | 1,500 - 2,500 | Insulated van, fuel |
+| - Ice for transport | 6,000 - 10,000 | 500 - 835 | Maintain cold chain |
+| - Delivery labor | 4,000 - 8,000 | 335 - 670 | Driver/helper |
+| - Vehicle maintenance | 2,000 - 2,000 | 165 | Service, repairs |
+| **Input Logistics** | 10,000 - 20,000 | 835 - 1,670 | |
+| - Feed delivery (from supplier) | 6,000 - 12,000 | 500 - 1,000 | Usually included |
+| - Fingerling transport | 3,000 - 6,000 | 250 - 500 | Oxygen, bags |
+| - Supplies procurement | 1,000 - 2,000 | 85 - 165 | Misc trips |
+
+---
+
+#### 4.10 Insurance | SAR 45,000 - 70,000/year (3-4%)
+
+| Sub-Category | Annual (SAR) | Coverage | Notes |
+|--------------|--------------|----------|-------|
+| **Property Insurance** | 25,000 - 40,000 | SAR 20M facility | Building, equipment |
+| **Stock Insurance** | 10,000 - 15,000 | SAR 500K-1M biomass | Fish mortality, disease |
+| **Liability Insurance** | 8,000 - 12,000 | SAR 5M liability | Product, public, employer |
+| **Vehicle Insurance** | 2,000 - 3,000 | 1-2 vehicles | Comprehensive |
+
+---
+
+#### 4.11 Marketing & Sales | SAR 45,000 - 80,000/year (3-6%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | Notes |
+|--------------|--------------|---------------|-------|
+| **Marketing Activities** | 25,000 - 45,000 | 2,085 - 3,750 | |
+| - Digital marketing (social media, ads) | 12,000 - 20,000 | 1,000 - 1,670 | Website, Instagram, Facebook |
+| - Promotional materials (brochures, samples) | 8,000 - 15,000 | 670 - 1,250 | Trade shows, tastings |
+| - Photography & videography | 3,000 - 6,000 | 250 - 500 | Product marketing |
+| - Market research | 2,000 - 4,000 | 165 - 335 | Consumer insights |
+| **Sales & Distribution** | 20,000 - 35,000 | 1,670 - 2,915 | |
+| - Sales commissions (if applicable) | 12,000 - 20,000 | 1,000 - 1,670 | 2-3% of sales |
+| - Customer relationship management | 4,000 - 8,000 | 335 - 670 | CRM software |
+| - Trade memberships & certifications | 4,000 - 7,000 | 335 - 585 | Industry associations |
+
+---
+
+#### 4.12 Administrative & General | SAR 50,000 - 85,000/year (4-6%)
+
+| Sub-Category | Annual (SAR) | Monthly (SAR) | Notes |
+|--------------|--------------|---------------|-------|
+| **Professional Services** | 24,000 - 42,000 | 2,000 - 3,500 | |
+| - Accounting & bookkeeping | 12,000 - 20,000 | 1,000 - 1,670 | Monthly financials |
+| - Legal services | 6,000 - 12,000 | 500 - 1,000 | Contracts, compliance |
+| - Consulting (technical, market) | 6,000 - 10,000 | 500 - 835 | As needed |
+| **Licensing & Compliance** | 12,000 - 20,000 | 1,000 - 1,670 | |
+| - Annual license renewals | 6,000 - 10,000 | 500 - 835 | MEWA, SFDA, BAP |
+| - Environmental monitoring & reporting | 4,000 - 7,000 | 335 - 585 | Quarterly discharge testing |
+| - Health & safety compliance | 2,000 - 3,000 | 165 - 250 | Inspections |
+| **Office & Communication** | 10,000 - 18,000 | 835 - 1,500 | |
+| - Internet & telecommunications | 3,000 - 6,000 | 250 - 500 | Fiber, mobile, VoIP |
+| - Office supplies | 2,000 - 4,000 | 165 - 335 | Stationery, printing |
+| - Software licenses | 3,000 - 5,000 | 250 - 415 | Accounting, farm management |
+| - Utilities (non-production) | 2,000 - 3,000 | 165 - 250 | Office phone, water |
+| **Miscellaneous** | 4,000 - 5,000 | 335 - 415 | |
+| - Bank charges & transaction fees | 2,000 - 3,000 | 165 - 250 | |
+| - Subscriptions & memberships | 1,000 - 1,000 | 85 | Trade journals |
+| - Contingency/miscellaneous | 1,000 - 1,000 | 85 | Unexpected expenses |
+
+---
+
+### **TOTAL SMALL-SCALE (50 TON) ANNUAL OPEX SUMMARY**
+
+| Category | Annual Low (SAR) | Annual High (SAR) | % Low | % High | Per kg |
+|----------|------------------|-------------------|-------|--------|--------|
+| Feed & Nutrition | 380,000 | 450,000 | 24% | 25% | 7.60-9.00 |
+| Fingerlings | 220,000 | 330,000 | 14% | 18% | 4.40-6.60 |
+| Labor & Staffing | 460,000 | 590,000 | 29% | 33% | 9.20-11.80 |
+| Electricity & Energy | 42,000 | 72,000 | 3% | 4% | 0.84-1.44 |
+| Water Supply | 6,000 | 12,000 | <1% | <1% | 0.12-0.24 |
+| Maintenance & Repairs | 90,000 | 140,000 | 6% | 8% | 1.80-2.80 |
+| Chemicals & Treatment | 35,000 | 55,000 | 2% | 3% | 0.70-1.10 |
+| Harvesting & Processing | 30,000 | 50,000 | 2% | 3% | 0.60-1.00 |
+| Transportation & Logistics | 40,000 | 70,000 | 3% | 4% | 0.80-1.40 |
+| Insurance | 45,000 | 70,000 | 3% | 4% | 0.90-1.40 |
+| Marketing & Sales | 45,000 | 80,000 | 3% | 4% | 0.90-1.60 |
+| Administrative & General | 50,000 | 85,000 | 3% | 5% | 1.00-1.70 |
+| **TOTAL ANNUAL OPEX** | **1,443,000** | **2,004,000** | **100%** | **100%** | **28.86-40.08** |
 
 **Cost Per Kilogram Produced:**
-- Total OPEX: SAR 1,470,000 (average)
-- Production: 50,000 kg
-- **Cost/kg: SAR 29.40 ($7.84)**
+- Low scenario: SAR 28.86/kg ($7.70/kg)
+- High scenario: SAR 40.08/kg ($10.69/kg)
+- Average: SAR 34.47/kg ($9.19/kg)
+
+**Note**: This is significantly higher than initial estimates. With operational optimization and economies of scale at 200+ tons, costs reduce to SAR 22-25/kg range.
 
 ---
 
