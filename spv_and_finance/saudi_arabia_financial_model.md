@@ -105,6 +105,8 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 
 ### Pricing Trends (2024, SAR per kg)
 
+**Note**: All USD conversions use exchange rate of 3.75 SAR/USD (November 2024). Exchange rate fluctuations can impact project economics, particularly for imported equipment and export revenues.
+
 **Wholesale Prices:**
 - Tilapia: SAR 18-22 ($4.80-5.87)
 - Seabream: SAR 30-40 ($8-10.67)
@@ -225,7 +227,7 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 | - UV/Ozone disinfection | 200,000 - 300,000 | | |
 | - Monitoring & SCADA | 400,000 - 700,000 | | |
 | - Piping, valves, fittings | 400,000 - 600,000 | | |
-| - Emergency backup systems | 400,000 - 400,000 | | |
+| - Emergency backup systems | 400,000 - 600,000 | | |
 | **Utilities Installation** | 1,000,000 - 2,000,000 | 267,000 - 533,000 | 8-12% |
 | - Electrical (3-phase, 200-300 kW) | 400,000 - 800,000 | | |
 | - Water connection & storage | 300,000 - 600,000 | | |
@@ -513,8 +515,10 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 
 **Key Variables Impact on IRR:**
 
-| Variable | Base Case | -20% | -10% | +10% | +20% |
-|----------|-----------|------|------|------|------|
+**Note**: Percentages show variable changes. For Selling Price and Production Volume, negative values mean decreases (reducing revenue). For Feed Cost and CAPEX, negative values mean cost reductions (improving profitability).
+
+| Variable | Base Case | -20% Change | -10% Change | +10% Change | +20% Change |
+|----------|-----------|-------------|-------------|-------------|-------------|
 | **Selling Price** | 20% IRR | 12% | 16% | 24% | 28% |
 | **Feed Cost** | 20% IRR | 23% | 21% | 19% | 17% |
 | **CAPEX** | 20% IRR | 24% | 22% | 18% | 16% |
@@ -675,8 +679,8 @@ This document provides a comprehensive financial model for Recirculating Aquacul
 - Match species to technical capability
 
 **3. Scale Appropriately**
-- **Minimum viable: 100-150 tons/year** for economic sustainability
-- Sweet spot: 200-300 tons/year
+- **Minimum viable: 100-150 tons/year** for economic sustainability (note: 50-ton analysis shows marginal viability, requires optimization)
+- Sweet spot: 200-300 tons/year (best risk-adjusted returns)
 - Larger scale only with experienced management
 
 **4. Technology Selection**
