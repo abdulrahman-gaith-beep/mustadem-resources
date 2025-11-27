@@ -11,7 +11,7 @@
 | **Company Type** | Aquaculture Consulting & Operations |
 | **Focus Area** | Recirculating Aquaculture Systems (RAS) |
 | **Primary Market** | Saudi Arabia & GCC Region |
-| **Founded** | 2024 |
+| **Founded** | 2021 |
 | **Headquarters** | Kingdom of Saudi Arabia |
 | **Website** | [Contact for details] |
 
@@ -23,11 +23,29 @@ Mustadem was founded to address a critical opportunity in the Saudi Arabian mark
 
 ### Evolution
 
-**2024 - Foundation Phase:**
+**2021 - Foundation Phase:**
 - Company establishment with core team of aquaculture professionals
-- Development of comprehensive knowledge base and service offerings
-- Initial client engagements in feasibility and consulting services
+- Initial consulting services and market research
+- Development of RAS knowledge base
+- First client engagements in feasibility studies
+
+**2022 - Growth Phase:**
+- Expansion of service offerings to full project delivery
 - Strategic partnerships with international technology providers
+- Completion of first RAS facility projects
+- Team expansion with specialized aquaculture engineers
+
+**2023 - Expansion Phase:**
+- Launch of Operations as a Service (OaaS) platform
+- Development of comprehensive knowledge base and SOPs
+- Expanded client portfolio across Saudi Arabia
+- Enhanced digital monitoring and reporting capabilities
+
+**2024-2025 - Scaling Phase:**
+- Full-service capability across all RAS project phases
+- Multiple concurrent project management
+- Regional expansion planning for GCC markets
+- Continuous improvement of operational excellence
 
 ### Market Context
 
