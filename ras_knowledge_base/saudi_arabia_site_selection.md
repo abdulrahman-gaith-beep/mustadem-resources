@@ -34,13 +34,13 @@ This document provides a comprehensive assessment of candidate locations for lan
 | Haql | Northwest | 31 |  | 23 | Seawater | PARTIAL | -12 | -4 | 1.05 | 0.5 | 93 | Yellowtail Amberjack | Gulf of Aqaba; cooler northern Red Sea waters ideal for temperate species. |
 | Al-Birk | Southwest | 36 |  | 30 | Seawater | NO | -19 | 0 | 1.10 | 0.5 | 91 | Tiger Shrimp | Remote sabkha coast; low land cost with direct seawater access. |
 | Safwa | Eastern | 41 |  | 26 | Seawater | YES | -18 | -2 | 1.15 | 0.8 | 90 | Hybrid Grouper | Close to Qatif aquaculture hub; established supply chain. |
-| Khafji | Eastern | 43 |  | 25.5 | Seawater | YES | -17 |  | 1.20 | 0.7 | 89 | Silver Pomfret | Northern Gulf; cooler water reduces summer cooling load. |
+| Khafji | Eastern | 43 |  | 25.5 | Seawater | YES | -17 | -3 | 1.20 | 0.7 | 89 | Silver Pomfret | Northern Gulf; cooler water reduces summer cooling load. |
 | Al-Aflaj | Central | 40 | 35 |  | Groundwater | PARTIAL | -24 | 4 | 1.20 | 0.5 | 88 | African Catfish | Agricultural oasis; integrate with existing irrigation systems. |
 | Sharma | Northwest | 30 |  | 23.5 | Seawater | NO | -12 | -3 | 1.00 | 0.5 | 92 | Japanese Seabream | Pristine NEOM-adjacent coastline; premium eco-tourism potential. |
 | Sakaka | Northern | 34 | 26 |  | Groundwater | NO | -13 | -1 | 1.15 | 0.5 | 90 | Nile Tilapia | Al-Jouf capital; cooler groundwater with stable year-round supply. |
 | Al-Hofuf | Eastern | 43 | 38 |  | Groundwater | PARTIAL | -26 | 6 | 1.25 | 0.8 | 86 | Jade Perch | Largest oasis in the world; tremendous water availability. |
 | Khaybar | Western | 38 | 30 |  | Groundwater | NO | -18 | 0 | 1.10 | 0.5 | 88 | Freshwater Prawns | Historic oasis; volcanic geology yields mineral-rich water. |
-| Tanomah | Southwest | 23 | 19 |  | Rain/Well | NO | -2 |  | 0.95 | 1.0 | 85 | Brook Trout | Highest elevation agriculture; coldest natural temperatures in KSA. |
+| Tanomah | Southwest | 23 | 19 |  | Rain/Well | NO | -2 | -10 | 0.95 | 1.0 | 85 | Brook Trout | Highest elevation agriculture; coldest natural temperatures in KSA. |
 | Mahd Adh Dhahab | Western | 39 | 33 |  | Groundwater | PARTIAL | -21 | 2 | 1.15 | 0.5 | 84 | Red Tilapia | Mining district; potential for industrial symbiosis. |
 | Qurayyat | Northern | 30 | 22 |  | Groundwater | NO | -10 | -5 | 1.00 | 0.5 | 91 | Arctic Char | Near Jordan border; coldest groundwater in Eastern KSA. |
 | Arar | Northern | 32 | 24 |  | Groundwater | NO | -11 | -3 | 1.10 | 0.5 | 89 | Pike-Perch | Northern plateau; moderate climate reduces energy costs. |
