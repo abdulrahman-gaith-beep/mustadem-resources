@@ -2,6 +2,7 @@
 
 ## Overview
 
+<<<<<<< Updated upstream
 This document explains the organization of the Mustadem knowledge base repository. Understanding this structure will help you navigate content efficiently and contribute effectively.
 
 ## Folder Organization
@@ -325,3 +326,278 @@ All documents include version information:
 - Version: 1.0
 - Last Updated: November 2024
 - Review Schedule: Annual
+=======
+This document explains the organizational structure of the Mustadem Resources repository and how to navigate it effectively.
+
+## Design Principles
+
+### 1. **Bilingual by Default**
+Every section contains both English (`/en/`) and Arabic (`/ar/`) versions of all documents. This ensures accessibility for:
+- International partners and clients
+- Local Saudi and GCC stakeholders
+- Team members of diverse backgrounds
+
+### 2. **Content-Based Organization**
+Files are organized by **content type and purpose** rather than by date or format:
+- **company/**: Company information and branding
+- **ras_knowledge_base/**: Technical documentation
+- **operations_as_a_service/**: Operational procedures
+- **project_delivery/**: Project management resources
+- **sales_and_marketing/**: Customer-facing materials
+- **spv_and_finance/**: Financial and investment resources
+- **templates/**: Reusable templates
+- **people_and_onboarding/**: HR and training materials
+
+### 3. **Clear Hierarchy**
+```
+Topic → Language → Document
+  ↓        ↓          ↓
+company → en/ar → mustadem_overview.md
+```
+
+### 4. **Archive Separation**
+Historical and outdated materials are kept in `/archive/` to:
+- Maintain clean active directories
+- Preserve historical context when needed
+- Prevent confusion with current resources
+
+## Directory Guide
+
+### `/company/`
+**Purpose**: Corporate information and branding materials
+
+**Contents**:
+- Company overview and history
+- Mission, vision, and values
+- Service descriptions
+- Contact information
+
+**Users**: Everyone - this is your starting point
+
+---
+
+### `/ras_knowledge_base/`
+**Purpose**: Technical documentation on RAS technology
+
+**Contents**:
+- RAS system fundamentals
+- Design principles and engineering
+- Water quality management
+- Species selection and feeding
+- Troubleshooting and failure modes
+
+**Users**: Technical team, clients, partners, students
+
+**Key Documents**:
+- `ras_basics.md` - Start here for foundational knowledge
+- `water_quality_and_biosecurity.md` - Critical for operations
+- `system_design_principles.md` - For system planning
+
+---
+
+### `/operations_as_a_service/`
+**Purpose**: Operational procedures and service definitions
+
+**Contents**:
+- Service offering descriptions
+- Standard Operating Procedures (SOPs)
+- Monitoring and reporting templates
+- Quality assurance procedures
+
+**Users**: Operations team, service managers, clients
+
+---
+
+### `/project_delivery/`
+**Purpose**: Project management frameworks and checklists
+
+**Contents**:
+- Project lifecycle documentation
+- Phase-specific checklists
+- Client communication templates
+- Handover procedures
+
+**Users**: Project managers, team leads, clients
+
+---
+
+### `/sales_and_marketing/`
+**Purpose**: Sales enablement and marketing resources
+
+**Contents**:
+- Customer profiles and personas
+- Discovery call frameworks
+- Proposal templates
+- Value proposition materials
+
+**Users**: Sales team, business development, marketing
+
+---
+
+### `/spv_and_finance/`
+**Purpose**: Financial models and investment materials
+
+**Contents**:
+- Financial model templates
+- Saudi market-specific financial analysis
+- Investment pitch materials
+- SPV structure guidance
+
+**Users**: Finance team, investors, partners, management
+
+**Highlight**: `saudi_arabia_financial_model.md` contains detailed market analysis
+
+---
+
+### `/templates/`
+**Purpose**: Reusable document templates
+
+**Contents**:
+- Client brief templates
+- Site survey forms
+- System requirements templates
+- Standard forms and documents
+
+**Users**: All team members
+
+---
+
+### `/people_and_onboarding/`
+**Purpose**: HR and training materials
+
+**Contents**:
+- Onboarding guides
+- Role descriptions
+- Training materials
+- Team structure documentation
+
+**Users**: HR team, new hires, managers
+
+---
+
+### `/meta/`
+**Purpose**: Repository documentation
+
+**Contents**:
+- This file (structure explanation)
+- Contributing guidelines
+- Documentation standards
+
+**Users**: Contributors, administrators
+
+---
+
+### `/archive/`
+**Purpose**: Historical materials no longer in active use
+
+**Contents**:
+- Old task management documents
+- Superseded versions
+- Historical references
+
+**Users**: Admins only (for reference)
+
+## File Naming Conventions
+
+### Standard Format
+```
+topic_description.md          # English version
+topic_description_ar.md       # Arabic version
+```
+
+### Examples
+- `ras_basics.md` / `ras_basics_ar.md`
+- `mustadem_overview.md` / `mustadem_overview_ar.md`
+- `client_brief_template.md` / `client_brief_template_ar.md`
+
+### Guidelines
+- Use lowercase
+- Separate words with underscores `_`
+- Use descriptive names
+- Arabic versions end with `_ar`
+- Avoid dates in filenames (use version control)
+
+## Navigation Tips
+
+### Finding Content
+
+**By Topic**: Navigate folder structure
+```
+Need water quality info?
+→ ras_knowledge_base/en/water_quality_and_biosecurity.md
+```
+
+**By Language**: Check `/en/` or `/ar/` folder
+```
+Need Arabic company overview?
+→ company/ar/mustadem_overview_ar.md
+```
+
+**By Search**: Use IDE search (Cmd+Shift+F or Ctrl+Shift+F)
+```
+Search for "biofilter" across all files
+```
+
+### Quick Reference Links
+
+All major documents are linked in the main [README.md](../README.md) with direct navigation tables.
+
+## Version Control
+
+### Tracking Changes
+- Use Git commit messages to explain changes
+- Reference related issues or tickets
+- Tag major versions
+
+### Updating Documents
+1. Make changes in English version first
+2. Update corresponding Arabic version
+3. Commit both files together
+4. Update README if structure changes
+
+## Content Standards
+
+### Markdown Files
+- Use clear heading hierarchy (H1 > H2 > H3)
+- Include table of contents for long documents
+- Use code blocks for technical content
+- Include examples where relevant
+
+### Bilingual Consistency
+- English and Arabic versions should have matching structure
+- Update both language versions together
+- Verify translations maintain technical accuracy
+
+### Documentation Quality
+- Write for your audience (technical vs. business)
+- Include specific examples and data
+- Link to related documents
+- Keep content current
+
+## Maintenance
+
+### Regular Reviews
+- Quarterly review of all active content
+- Annual archive of outdated materials
+- Continuous update of technical specifications
+
+### Who to Contact
+- **Content Updates**: Contact repository maintainers
+- **Technical Questions**: Reach out to technical team
+- **Translation Issues**: Contact language coordinators
+
+## Future Structure
+
+As the repository grows, we may add:
+- `/case_studies/` - Project success stories
+- `/research/` - Industry research and reports
+- `/training_videos/` - Video content references
+- `/tools/` - Software tools and scripts
+
+Structure changes will be communicated and documented here.
+
+---
+
+**Last Updated**: December 4, 2025  
+**Maintained by**: Mustadem Documentation Team
+>>>>>>> Stashed changes

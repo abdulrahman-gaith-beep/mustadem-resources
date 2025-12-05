@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Contributing to the Mustadem Knowledge Base
 
 Welcome to the Mustadem knowledge base repository! This document provides guidelines for contributing to our documentation and resources.
@@ -281,3 +282,57 @@ Thank you for contributing to the Mustadem knowledge base. Your expertise and ef
 - Version: 1.0
 - Last Updated: November 2024
 - Review Schedule: Annual
+=======
+# Contributing to Mustadem Resources
+
+Thank you for your interest in contributing! This guide will help you contribute effectively.
+
+## How to Contribute
+
+### Types of Contributions
+1. **Content Updates** - Corrections and improvements
+2. **New Content** - Templates, guides, documentation
+3. **Translations** - Arabic translations and reviews
+4. **Structure Improvements** - Better organization
+
+## Guidelines
+
+### Content Standards
+- **Clear and Concise**: Plain language
+- **Actionable**: Specific steps and examples
+- **Accurate**: Verified technical information
+- **Current**: Up-to-date data
+
+### Bilingual Requirements
+- Both versions must match in structure
+- Technical accuracy in both languages
+- Culturally appropriate examples
+
+### File Organization
+```
+category/
+  ├── en/document.md
+  └── ar/document_ar.md
+```
+
+## Contribution Process
+
+1. Plan your content
+2. Write English version
+3. Create Arabic version
+4. Review both versions
+5. Submit contribution
+
+## Quality Checklist
+- [ ] Content is accurate
+- [ ] Both language versions exist
+- [ ] Formatting is consistent
+- [ ] Links work
+- [ ] Examples included
+- [ ] Sources cited
+
+## Contact
+Questions? Contact: info@mustadem.com
+
+**Last Updated**: December 4, 2025
+>>>>>>> Stashed changes

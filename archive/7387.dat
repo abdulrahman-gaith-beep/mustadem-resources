@@ -1,0 +1,456 @@
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="HandheldFriendly" content="true"><meta name="viewport" content="width=device-width; initial-scale=0.666667; user-scalable=0"><meta name="viewport" content="width=device-width"><style>
+<!--
+@media (max-width: 512px) {
+.mercado-container
+	{width:100%!important}
+
+	}
+-->
+</style><style>
+<!--
+@media (max-width: 480px) {
+.inline-button, .inline-button table
+	{display:none!important}
+.full-width-button, .full-width-button table
+	{display:table!important}
+
+	}
+-->
+</style><style>
+<!--
+-->
+</style><style>
+<!--
+@media (max-width: 480px) {
+.inline-button, .inline-button table
+	{display:none!important}
+.full-width-button, .full-width-button table
+	{display:table!important}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content, .pulse .article-main__content > *
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content h1
+	{font-size:48px}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content h2, .pulse .article-main__content h2 span
+	{font-size:24px}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content h3
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content p, .pulse .article-main__content p span
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.pulse .article-main__content blockquote
+	{font-size:24px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content, .advice .article-main__content > *
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content h1
+	{font-size:48px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content h2, .advice .article-main__content h2 span
+	{font-size:24px}
+
+	}
+@media (min-width: 1200px) {
+.advice.redesign .article-main__content h2, .advice.redesign .article-main__content h2 span
+	{font-size:32px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content h3
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content p, .advice .article-main__content p span
+	{font-size:20px}
+
+	}
+@media (min-width: 1200px) {
+.advice .article-main__content blockquote
+	{font-size:24px}
+
+	}
+@media (min-width: 576px) {
+.container
+	{max-width:576px}
+
+	}
+@media (min-width: 768px) {
+.container
+	{max-width:768px}
+
+	}
+@media (min-width: 992px) {
+.container
+	{max-width:992px}
+
+	}
+@media (min-width: 1128px) {
+.container
+	{max-width:1128px}
+
+	}
+@media (min-width: 1200px) {
+.container
+	{max-width:1200px}
+
+	}
+@media (min-width: 1440px) {
+.container
+	{max-width:1440px}
+
+	}
+@media (min-width: 1680px) {
+.container
+	{max-width:1680px}
+
+	}
+@media (min-width: 1920px) {
+.container
+	{max-width:1920px}
+
+	}
+@media (min-width: 992px) {
+.base-detail-page__header .nav
+	{margin-left:auto;
+	margin-right:auto;
+	width:1128px}
+
+	}
+@media (max-width: 767px) {
+.embedded-social-share .modal__outlet
+	{flex-direction:row;
+	font-size:14px;
+	color:rgba(0,0,0,0.6)}
+
+	}
+@media (max-width: 767px) {
+.nav .search-bar
+	{order:4}
+
+	}
+@media (max-width: 767px) {
+.nav .sign-in-card
+	{display:none}
+
+	}
+@media (max-width: 767px) {
+
+	}
+@media screen and (max-width: 767px) {
+.nav .search-bar--minified-mobile
+	{margin-bottom:0px;
+	height:100%;
+	flex-grow:1;
+	padding-top:5px;
+	padding-bottom:5px;
+	order:initial;
+	width:initial}
+.nav .search-bar--minified-mobile .search-bar__placeholder
+	{margin-top:0px}
+
+	}
+@media (max-width: 767px) {
+.tw-link-column-item
+	{margin-top:10px;
+	margin-bottom:10px}
+
+	}
+@media (min-width: 992px) {
+.tw-link-column-item
+	{margin-bottom:8px}
+.tw-linkster .tw-link-column-item
+	{margin-bottom:0px}
+
+	}
+@media (max-width: 767px) {
+.member-nav-menu .collapsible-dropdown__button
+	{margin-top:24px;
+	margin-bottom:24px;
+	margin-left:16px}
+
+	}
+@media (max-width: 767px) {
+.member-nav-menu .collapsible-dropdown__list
+	{right:0px;
+	overflow-y:auto}
+
+	}
+@media (max-width: 767px) {
+.recent-searches.recent-searches--show
+	{top:168px;
+	left:0px;
+	width:100vw;
+	min-width:100vw;
+	border-width:0}
+
+	}
+@media (max-width: 767px) {
+.search-bar .dismissable-input
+	{background-color:rgba(0,0,0,0);
+	border-color:rgba(0,0,0,0.75);
+	color:rgba(0,0,0,0.9);
+	border-radius:4px;
+	border-width:1px;
+	border-style:solid;
+	padding-left:16px;
+	padding-right:16px;
+	padding-top:14px;
+	padding-bottom:14px;
+	font-size:16px}
+.input-error .search-bar .dismissable-input
+	{background-color:rgba(0,0,0,0);
+	border-color:#cf0007;
+	color:rgba(0,0,0,0.9);
+	border-radius:4px;
+	border-width:1px;
+	border-style:solid;
+	padding-left:16px;
+	padding-right:16px;
+	padding-top:14px;
+	padding-bottom:14px;
+	font-size:16px}
+.base-search-bar .input-error .search-bar .dismissable-input.typeahead-input
+	{border-style:solid;
+	padding-top:0px;
+	padding-bottom:0px;
+	box-shadow:0 0 #0000,0 0 #0000,0 0 #0000}
+
+	}
+@media (min-width: 768px) and (max-width: 991px) {
+.search-bar .dismissable-input
+	{background-color:rgba(0,0,0,0);
+	box-shadow:0 0 #0000,0 0 #0000,0 0 #0000}
+
+	}
+@media (min-width: 992px) {
+.search-bar .dismissable-input
+	{width:0px;
+	background-color:rgba(0,0,0,0);
+	box-shadow:0 0 #0000,0 0 #0000,0 0 #0000}
+
+	}
+@media (max-width: 767px) {
+
+	}
+@media screen and (max-width: 767px) {
+.search-bar.isExpanded .search-bar__placeholder
+	{display:none}
+.search-bar.isExpanded .base-search-bar__form
+	{display:flex}
+.search-bar.isExpanded .switcher-tabs__cancel-btn, .search-bar.isExpanded .switcher-tabs
+	{display:inherit}
+
+	}
+@media screen and (max-width: 767px) {
+.stuck .search-bar
+	{margin-bottom:0px;
+	height:0px}
+.stuck .search-bar--minified-mobile .search-bar__placeholder
+	{max-height:initial;
+	border-width:1px;
+	border-style:solid;
+	border-color:rgba(0,0,0,0.6)}
+
+	}
+@media screen and (min-width: 767px) {
+
+	}
+@media (max-width: 767px) {
+.tabs__list
+	{padding-left:16px;
+	padding-right:16px}
+
+	}
+@media (max-width: 767px) {
+.typeahead-input__dropdown.typeahead-input__dropdown--show
+	{top:158px;
+	left:0px;
+	width:100vw;
+	min-width:100vw}
+
+	}
+@media (max-width: 767px) {
+.base-search-bar .dismissable-input
+	{max-height:40px}
+
+	}
+@media (max-width: 767px) {
+.base-main-card__media ~ .base-main-card__info
+	{margin-left:0px;
+	margin-top:16px}
+
+	}
+@media (max-width: 767px) {
+.mx-main-feed-card-no-gutter
+	{}
+
+	}
+@media (min-width: 768px) and (max-width: 991px) {
+.mx-main-feed-card-no-gutter
+	{}
+
+	}
+@media (max-width: 767px) {
+.px-main-feed-card-no-gutter
+	{padding-left:16px;
+	padding-right:16px}
+
+	}
+@media (min-width: 768px) and (max-width: 991px) {
+.px-main-feed-card-no-gutter
+	{padding-left:16px;
+	padding-right:16px}
+
+	}
+@media (min-width: 992px) {
+.filter .collapsible-dropdown__list
+	{max-height:400px}
+
+	}
+@media (forced-colors: active) {
+.filter-button--selected
+	{border-width:4px}
+
+	}
+@media (-ms-high-contrast: active), (forced-colors: active) {
+.contribution-list .contribution
+	{outline:1px solid transparent}
+
+	}
+@media (min-width: 576px) {
+.article-segment__cta-container
+	{flex-direction:row;
+	align-items:center;
+	justify-content:flex-end}
+
+	}
+@media (min-width: 992px) {
+.article-segment__cta-container
+	{flex-direction:row;
+	align-items:center;
+	justify-content:flex-start}
+
+	}
+@media (max-width: 575px) {
+
+	}
+@media (max-width: 640px) {
+#modal-delete-confirmation .modal__footer
+	{border-style:none}
+
+	}
+@media (min-width: 992px) {
+.base-template.x-article-base-page .base-template__workspace
+	{flex-direction:row}
+
+	}
+@media (max-width: 991px) {
+.base-template.x-article-base-page
+	{max-height:fit-content}
+
+	}
+@media (max-width: 991px) {
+.base-template.x-article-base-page
+	{max-height:fit-content;
+	overflow-y:auto}
+.base-template.x-article-base-page .base-template__panel
+	{width:auto;
+	border-width:0;
+	border-style:none}
+
+	}
+@media (min-width: 992px) {
+.focus-page.x-article-focus-page .focus-page__core-rail
+	{flex-direction:row}
+
+	}
+@media (max-width: 767px) {
+.base-card .duration
+	{font-size:12px;
+	font-weight:400}
+
+	}
+@media (max-width: 767px) {
+.hide-on-mobile
+	{display:none}
+
+	}
+@media (max-width: 767px) {
+.social-action-bar__button
+	{flex-direction:row;
+	font-size:14px;
+	color:rgba(0,0,0,0.6)}
+
+	}
+@media (max-width: 767px) {
+.social-action-bar__icon--svg
+	{margin:0px;
+	height:24px;
+	width:24px}
+.social-action-bar__button-text
+	{padding-left:4px}
+
+	}
+@media only screen and (min-width: 30.06em) {
+.card-cta-container-mobile
+	{display:none!important;
+	width:0!important;
+	height:0!important;
+	overflow:hidden!important;
+	visibility:hidden!important}
+.card-cta-container-desktop
+	{display:block!important;
+	width:auto!important;
+	height:auto!important;
+	visibility:visible!important;
+	overflow:visible!important}
+
+	}
+@media (min-width: 576px) {
+
+	}
+@media (min-width: 768px) {
+
+	}
+@media (min-width: 992px) {
+
+	}
+@media (min-width: 1200px) {
+
+	}
+@media (min-width: 1440px) {
+
+	}
+@media (max-width: 767px) {
+
+	}
+@media (min-width: 768px) and (max-width: 991px) {
+
+	}
+-->
+</style></head><body dir="ltr" class="font-sans bg-color-background-canvas w-full m-0 p-0 pt-1" style="margin:0px; width:100%; background-color:#f3f2f0; padding:0px; padding-top:8px"><div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" data-email-preheader="true" style="visibility:hidden; height:0px; max-height:0; width:0px; overflow:hidden; opacity:0">The rise in carbon emissions is only half the story. Between wildfires, floods,…</div><div class="h-0 opacity-0 text-transparent invisible overflow-hidden w-0 max-h-[0]" style="visibility:hidden; height:0px; max-height:0; width:0px; overflow:hidden; opacity:0">͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; ͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp;͏&nbsp; </div><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="512" align="center" class="mercado-container w-[512px] max-w-[512px] mx-auto my-0 p-0 bg-color-background-container" style="margin-left:auto; margin-right:auto; margin-top:0px; margin-bottom:0px; width:512px; max-width:512px; background-color:#ffffff; padding:0px"><tbody><tr><td class="text-center p-3" style="padding:24px; text-align:center"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" class="min-w-full" style="min-width:100%"><tbody><tr><td align="left" valign="middle" style=""><a href="https://www.linkedin.com/comm/feed/?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-header-0-home_glimmer&amp;trkEmail=eml-email_series_follow_newsletter_01-header-0-home_glimmer-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="w-[84px]" style="color:#0a66c2; display:inline-block; text-decoration:none; width:84px"><img class="block" alt="LinkedIn" src="https://www.linkedin.com/comm/dms/logo?badgeTheme=mercado&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midSig=10Tdbk6dMMrr01&amp;midToken=AQEYS809b3Swmw&amp;trkEmail=eml-email_series_follow_newsletter_01-null-0-comms%7Ebadging%7Edynamic%7Eglimmer-null-7hljz9%7Elp50kjo9%7Ey7-null-null&amp;trk=eml-email_series_follow_newsletter_01-null-0-comms%7Ebadging%7Edynamic%7Eglimmer&amp;_sig=3so5MFVZEMrr01" data-test-header-dynamic-badging-img="" style="outline:none; text-decoration:none; display:block"> </a></td><td valign="middle" align="right" style=""><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" data-test-header-profile="" style=""><tbody><tr><td align="right" valign="middle" class="w-[32px]" width="32" style="width:32px"><a href="https://sa.linkedin.com/comm/in/gaith95?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-header-0-profile_glimmer&amp;trkEmail=eml-email_series_follow_newsletter_01-header-0-profile_glimmer-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img alt="Abdulrahman Bin Ghaith" src="https://media.licdn.com/dms/image/C4E03AQFtTL3PQkybGQ/profile-displayphoto-shrink_200_200/0/1643276002065?e=2147483647&amp;v=beta&amp;t=WQleXohdDa8Bm7IH17qzXzIW5hM0YcCoJM4xwQ30bLA" class="rounded-[100%] w-[32px] h-[32px]" width="32" height="32" style="outline:none; text-decoration:none; height:32px; width:32px; border-radius:100%"> </a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td class="px-0 pb-3" style="padding-left:0px; padding-right:0px; padding-bottom:24px"><div><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td class="px-3 pb-2" style="padding-left:24px; padding-right:24px; padding-bottom:16px"><h1 class="break-words font-sans text-sm font-medium uppercase leading-regular tracking-widest text-system-gray-70" data-test-id="email-header" style="margin:0; font-size:14px; font-weight:500; text-transform:uppercase; line-height:1.25; letter-spacing:0.1em; color:#666666">Newsletter on LinkedIn </h1></td></tr><tr><td data-test-id="newsletter-entity-lockup" class="px-3 pb-2" style="padding-left:24px; padding-right:24px; padding-bottom:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td valign="top" class="pr-1 w-8" width="64" style="width:64px; padding-right:8px"><a href="https://www.linkedin.com/comm/newsletters/6651495472181637121?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="inline-block relative bg-color-entity-ghost-background w-8 h-8" src="https://media.licdn.com/dms/image/C4E12AQFdUexlL4xUkg/series-logo_image-shrink_100_100/0/1587707440312?e=2147483647&amp;v=beta&amp;t=WfMJS4m8JnaWt8eUwVQvSL66u9MSQucfSLEVOV3uuuA" alt="Gates Notes" width="64" height="64" style="outline:none; text-decoration:none; display:inline-block; height:64px; width:64px; background-color:#eae6df"> </a></td><td valign="top" style=""><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td style=""><a href="https://www.linkedin.com/comm/newsletters/6651495472181637121?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; text-decoration-line:none"><span class="font-[700] text-md m-0 pb-0.25 break-words leading-regular text-system-gray-90" style="margin:0px; padding-bottom:2px; font-size:16px; font-weight:700; line-height:1.25; color:#282828">Gates Notes </span></a></td></tr><tr><td style=""><a href="https://www.linkedin.com/comm/newsletters/6651495472181637121?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_entity_lockup-0-newsletter_entity_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; text-decoration-line:none"><span class="text-sm m-0 text-cool-gray-70 break-words font-normal leading-regular" style="margin:0px; font-size:14px; font-weight:400; line-height:1.25; color:#56687a">The blog of Bill Gates </span></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td data-test-id="newsletter-author-lockup" class="px-3 pb-2" valign="middle" style="padding-left:24px; padding-right:24px; padding-bottom:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td valign="middle" align="left" class="pr-1 w-4" width="32" style="width:32px; padding-right:8px"><a href="https://www.linkedin.com/comm/in/williamhgates?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="inline-block relative bg-color-entity-ghost-background clip-path-circle-50 rounded-full w-4 h-4 align-middle" src="https://media.licdn.com/dms/image/D5603AQHv6LsdiUg1kw/profile-displayphoto-shrink_400_400/0/1695167344576?e=2147483647&amp;v=beta&amp;t=5FKswnH7V22E3go7Xe09HRzsfWX2q-WUO2vlsgaeUDE" alt="Author image" width="32" height="32" style="outline:none; text-decoration:none; display:inline-block; height:32px; width:32px; border-radius:9999px; background-color:#eae6df; vertical-align:middle"> </a></td><td valign="middle" class="align-middle" style="vertical-align:middle"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td style=""><a href="https://www.linkedin.com/comm/in/williamhgates?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; text-decoration-line:none"><span class="font-[700] text-sm m-0 pb-0.25 text-system-gray-90 leading-regular" style="margin:0px; padding-bottom:2px; font-size:14px; font-weight:700; line-height:1.25; color:#282828">Bill Gates</span> </a></td></tr><tr><td style=""><a href="https://www.linkedin.com/comm/in/williamhgates?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_author_lockup-0-newsletter_author_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; text-decoration-line:none"><span class="text-xs m-0 text-cool-gray-70" data-test-id="headline" style="margin:0px; font-size:12px; color:#56687a">Co-chair, Bill &amp; Melinda Gates Foundation </span></a></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr data-test-id="newsletter-hero-banner"><td class="bg-color-surface-accent-4 py-2 px-3 leading-regular" style="background-color:#dde7f1; padding-left:24px; padding-right:24px; padding-top:16px; padding-bottom:16px; line-height:1.25"><a href="https://www.linkedin.com/comm/pulse/dont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_hero_banner-0-open_on_linkedin_cta&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_hero_banner-0-open_on_linkedin_cta-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="text-color-text no-underline" style="display:inline-block; text-decoration:none; color:rgba(0,0,0,0.9); text-decoration-line:none">See what others are saying about this topic:<span class="text-md font-normal leading-regular text-color-brand" style="font-size:16px; font-weight:400; line-height:1.25; color:#0a66c2"> Open on Linkedin</span> </a></td></tr><tr data-test-id="newsletter-content-preview"><td class="px-3 pt-2" style="padding-left:24px; padding-right:24px; padding-top:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td class="overflow-hidden " style="overflow:hidden"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td style=""><a href="https://www.linkedin.com/comm/pulse/dont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-headline_&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-headline_-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="block w-full" alt="Newsletter cover image" src="https://media.licdn.com/dms/image/D5612AQH2jZVEKwLBAw/article-cover_image-shrink_720_1280/0/1700155405796?e=2147483647&amp;v=beta&amp;t=3-bh_iV8iOvOqT9CTqxe_IsF9BOE7SjA273XK267LGI" style="outline:none; text-decoration:none; display:block; width:100%"> </a></td></tr><tr><td class="py-2" style="padding-top:16px; padding-bottom:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td style=""><a href="https://www.linkedin.com/comm/pulse/dont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-title_&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-title_-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" class="no-underline font-medium text-sm m-0 text-system-gray-90" style="display:inline-block; text-decoration:none; margin:0px; font-size:14px; font-weight:500; color:#282828; text-decoration-line:none"><h2 style="margin:0; font-weight:500">Don’t let grim headlines obscure the progress on climate change </h2></a></td></tr><tr data-test-id="newsletter-content-preview--content"><td class="pt-0.5 series-article-body" style="font-size:16px; padding-top:4px"><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">The rise in carbon emissions is only half the story.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Between wildfires, floods, and other disasters, climate change is in the news nearly every day. And it will get even more attention late this month as we approach COP, the United Nations’ annual global meeting on climate change.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">I hope you take a positive message away from COP, because there are more reasons to be hopeful than many people realize—and it’s not just that renewable energy sources like wind and solar are getting cheaper. And it’s not just because many of the steps already taken to reduce carbon emissions are working: Carbon emissions from fossil fuels <a href="https://www.iea.org/reports/world-energy-outlook-2022/executive-summary#abstract" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">will probably peak</a> in 2025.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">The main thing that makes me optimistic is all the innovation I’m seeing. As someone who has been funding climate solutions for years, I get to learn from ingenious scientists who are working on ideas that will help the world solve climate change. And their work makes me confident that innovation will help the world get on track to meet its climate goals.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Some people are skeptical when a technology person like me says innovation is the answer. And it’s true that new tools aren’t the only thing we need. But we won’t solve the climate problem without them.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">There are two reasons for this. First, we need to eliminate emissions from every sector of the economy. Although some behavior change will help, the world can't achieve its zero-emissions goals without inventing new ways of doing things. For example, the production of concrete and steel alone accounts for around 10 percent of the world’s annual greenhouse gases, but right now, we don’t have practical ways to make either one without releasing carbon dioxide.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">The second reason is that, in a world with limited resources, innovations allow us to magnify the impact of our efforts. Consider what has happened in public health over the past two decades: We’ve cut in half the number of children who die before the age of five. Although it’s true that global health funding went up, that’s not the only reason for the dramatic change. It’s also because advances in science and policy drove down the cost of vaccines and made it possible to immunize far more children—and because the world spent its limited resources on the most effective ways to save lives.</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQFpNjySAJY9ng/article-inline_image-shrink_1000_1488/0/1700366225527?e=1706140800&amp;v=beta&amp;t=zlpeuyCqB8iMveOiE7a8EbOrCtOcdNu2mYBZdn5vXis" src="https://media.licdn.com/dms/image/D5612AQFpNjySAJY9ng/article-inline_image-shrink_1000_1488/0/1700366225527?e=1706140800&amp;v=beta&amp;t=zlpeuyCqB8iMveOiE7a8EbOrCtOcdNu2mYBZdn5vXis" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">Breakthroughs in health care—like the vaccines given to this baby in Kenya—show what innovation can do for climate change.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Innovation will do something similar for climate change. We couldn’t solve the climate problem with existing technology even if we had unlimited resources—and, of course, we don’t have unlimited resources. So we need to be as rigorous as possible about doing the most good with the funding that is available. In my view, that boils down to inventing and deploying new ways to cut emissions and to help people survive and thrive in a warming world.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">I’m funding work in both areas: the former through my company <a href="https://breakthroughenergy.org/?utm_source=GV&amp;utm_medium=social&amp;utm_campaign=2023TransitionReport&amp;utm_term=All" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Breakthrough Energy</a> and the latter through the <a href="http://www.gatesfoundation.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Gates Foundation</a>.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">In this post, I'll tell you about some of the breakthroughs that fuel my optimism. I’ll start with ways to lower emissions; you can read even more about the progress on that front—including why I think we’re at the beginning of a Clean Industrial Revolution—in Breakthrough Energy’s <a href="https://transition.breakthroughenergy.org/?utm_source=GV&amp;utm_medium=social&amp;utm_campaign=2023TransitionReport&amp;utm_term=All" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">State of the Transition Report</a>. After emissions, I’ll turn to the subject of helping people, especially in low-income countries, adapt to a warmer world—and why improving health should be part of that work.</p><h2 style="margin:0; font-weight:500; margin-left:0px; margin-right:0px; margin-top:1em; margin-bottom:0.5em; font-size:1.5em; line-height:1.25; letter-spacing:-0.02em">New ways to reduce carbon emissions</h2><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Cars and power plants get the most attention, but emissions come from lots of different human activities. This chart breaks them down:</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQHXWsh_PvFKcQ/article-inline_image-shrink_1000_1488/0/1700366446224?e=1706140800&amp;v=beta&amp;t=fL4ChimVvt5W7SZqCMaU4f3SDxbos16-6FOFbk2fk98" src="https://media.licdn.com/dms/image/D5612AQHXWsh_PvFKcQ/article-inline_image-shrink_1000_1488/0/1700366446224?e=1706140800&amp;v=beta&amp;t=fL4ChimVvt5W7SZqCMaU4f3SDxbos16-6FOFbk2fk98" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">To give you a sense of how much innovation is going on, here are just a few of the low- or zero-emissions efforts that I’m excited about in each slice of the pie. Breakthrough Energy funds most of these companies, but there are many others I’m not involved in that are also doing promising work.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Manufacturing: </strong>Cement and steel are two of the biggest sources of emissions in this category. <a href="https://www.bostonmetal.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Boston Metal</a><strong> </strong>is well on the way to making steel with electricity (which can be generated without emissions) instead of coal.<strong> </strong><a href="https://www.carboncure.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">CarbonCure</a> and <a href="https://www.eco-cem.com/about-us/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Ecocem</a> have developed low-carbon processes for making cement, and <a href="https://www.brimstone.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Brimstone</a> has a way to do it while actually removing carbon from the air.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Electricity: </strong>Earlier this year <a href="https://www.gatesnotes.com/Wyoming-TerraPower?WT.mc_id=20231119180000_State-of-the-Transition_BG-LI_&amp;WT.tsrc=BGLI" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">I visited Kemmerer, Wyoming</a>, to see the future site of the <a href="https://www.terrapower.com/our-work/natriumpower/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">next-generation nuclear power plant</a> that TerraPower is building there. It will bring 1,600 construction jobs and 250 permanent jobs to the local economy, and it will be much safer and produce far less waste than conventional designs. In addition, several companies including <a href="https://www.cfs.energy/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Commonwealth Fusion</a> are developing ways to make clean energy by pressing atoms together instead of breaking them apart. And as I mentioned earlier, the cost of renewables like wind and solar keeps coming down.</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQHuh7hBlIV_kg/article-inline_image-shrink_400_744/0/1700366653987?e=1706140800&amp;v=beta&amp;t=8XL4surEQMP_VCcyjgPzuXmLijdfGlOCepAtFpahW-k" src="https://media.licdn.com/dms/image/D5612AQHuh7hBlIV_kg/article-inline_image-shrink_400_744/0/1700366653987?e=1706140800&amp;v=beta&amp;t=8XL4surEQMP_VCcyjgPzuXmLijdfGlOCepAtFpahW-k" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">I went to Wyoming in May to visit the site of the Natrium Plant, expected to be the most advanced nuclear facility in the world when it opens.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Agriculture: </strong>We need to both reduce farming-related emissions and help farmers grow more food in a warmer climate. To reduce emissions, we need to replace the synthetic fertilizers that release nitrous oxide, a greenhouse gas, when broken down by microbes in the soil;<strong> </strong><a href="https://www.pivotbio.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Pivot Bio</a><strong> </strong>has genetically modified microbes to provide plants with the nitrogen they need without the excess greenhouse gases that synthetic alternatives produce. <a href="https://savor-it.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Savor Foods</a> is working on a process for creating fats from carbon dioxide and hydrogen that would replace meat-based fats, and <a href="https://www.c16bio.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">C16 Biosciences</a> is using fermentation to make an alternative to natural palm oil. I’ll turn to the other challenge—helping farmers grow more food—shortly.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Transportation: </strong>One of the knocks on electric vehicles has been their limited range—but ranges are getting better fast. In 2025, the company <a href="https://one.ai/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Our Next Energy</a> will produce a battery that can run an EV for 600 miles. There’s progress on electric buses as well: China is a leader in both <a href="http://www.xinhuanet.com/english/2020-10/26/c_139467267.htm" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">making and using them</a>—in 2020, some 60 percent of all buses in the country ran on electricity, according to government figures. In shipping, <a href="https://fleetzero.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Fleet Zero</a> is doing for ships what other companies have done for EVs—showing that it's possible to power them with batteries rather than fossil fuels. And in aviation, a recent study by <a href="https://www.nytimes.com/2023/08/08/climate/curbing-contrails-a-climate-solution-in-the-skies.html" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Google, American Airlines, and Breakthrough Energy</a> suggests that contrail emissions could be cut by half if passenger planes make minor adjustments to their routes and fly just a few thousand feet lower.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Buildings: </strong>Buildings waste a lot of energy: Because of inefficient windows and gaps in what’s known as the building envelope, as much as 40% of heated or cooled air leaks out of the typical building. If we can drive that number down, buildings will require less heating and cooling—which will substantially lower our emissions. <a href="https://aeroseal.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Aeroseal</a> has developed a polymer that can seal ducts and other crevices; more than a quarter of a million buildings in the U.S. and Canada are already using their product. Another company, <a href="https://www.luxwall.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Luxwall</a>, has developed a window that’s many times more efficient than the single-pane windows used in most buildings.&nbsp;And unlike double-paned windows, it’s thin enough to replace single-paned glass without having to rebuild the frame.</p><h2 style="margin:0; font-weight:500; margin-left:0px; margin-right:0px; margin-top:1em; margin-bottom:0.5em; font-size:1.5em; line-height:1.25; letter-spacing:-0.02em">New ways to help people in poor countries thrive</h2><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">In conversations about helping people in poor countries adapt to a warmer world, health and development don’t usually come up. But they should. They’re inextricably linked.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">For example, floods and other types of extreme weather are hindering vaccination campaigns. Extreme heat is expected to increase the incidence of preterm births and stillbirths, because pregnant women are particularly vulnerable to such conditions. And in a warmer climate, mosquitoes will move to new regions that are unprepared for the diseases they carry, potentially causing a 10 percent spike in annual malaria deaths by 2030.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">But the best example of the connection between health and climate is nutrition.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Every year, at least 250,000 children die because they’re malnourished—some estimates put the number at more than ten times that—and millions of others are stunted, which means they’re not fully developing physically or cognitively. One reason for these horrific numbers is probably not surprising: There often isn’t enough nutritious food available. So to solve malnutrition, farmers in poor countries need to be able to grow more food that has the nutrients children need.</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQGpUUc_iAl2Kw/article-inline_image-shrink_1000_1488/0/1700366800646?e=1706140800&amp;v=beta&amp;t=ZK5opse3ZqRdF8AVPFC2_rNR5kBsGbk2s1V5m_Lf5Mo" src="https://media.licdn.com/dms/image/D5612AQGpUUc_iAl2Kw/article-inline_image-shrink_1000_1488/0/1700366800646?e=1706140800&amp;v=beta&amp;t=ZK5opse3ZqRdF8AVPFC2_rNR5kBsGbk2s1V5m_Lf5Mo" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">Growing more food will help reduce malnutrition and stunting in children like these, who are getting checked at a rural clinic in India.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Helping them do that has been a key part of the Gates Foundation’s strategy for more than a decade, but unfortunately, it’s going to get harder in the coming years because heat waves and other effects of climate change will lower crop yields in poor countries. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9971264/#:~:text=Overall%20malnutrition-related%20mortality,)%20per%20100%2C000%20population%20(Fig" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">One study</a> found that by 2030, undernutrition could claim the lives of 95,000 additional children every year.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Even without the complications of climate change, growing more food isn't sufficient to solve the problem, because there’s another reason that children are malnourished: They often don’t have the right bacteria in their digestive system—what’s known as the gut microbiome—to convert the food they eat into the nutrients they need. (I wrote at length about this in the Gates Foundation’s <a href="https://www.gatesfoundation.org/goalkeepers/report/2023-report/?utm_source=linkedin&amp;utm_medium=social&amp;utm_campaign=gk2023&amp;utm_content=BG" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">latest Goalkeepers report</a>.)</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">In other words, to save children’s lives, farmers need to grow more food <em style="font-style:italic">and </em>scientists need to solve the gut microbiome problem.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">And, more broadly, climate and health go hand in hand. When the world grades its progress, the scorecard shouldn’t be an emissions scorecard or an adaptation scorecard--it should be a <a href="https://sdgs.un.org/goals" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">human development scorecard</a>. Every discussion about allocating scarce resources for climate and health should start with the question, “What’s the best use of this money for saving and improving the most lives?” After all, nobody would be better off in a world with fewer emissions but more sickness, hunger, and death.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">As urgent as the climate problem is, we can’t forget that people are also dying from infectious diseases and malnutrition. We shouldn’t turn our backs on them. Their lives are just as precious as the grandchildren we want to preserve the climate for.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">That’s why the world should have two priorities for helping low-income countries adapt to climate change. One is to help farmers there produce more crops and livestock so they can raise their incomes and all children can get the nutrients they need. No other adaptation effort will have more impact. The other priority should be to continue the world’s progress on reducing its worst inequity—health—and on lifting people out of extreme poverty.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Let’s start with improved <strong>crops</strong>. <a href="https://www.nextgencassava.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">African researchers</a> have developed a new generation of high-yielding, disease-resistant varieties of cassava. Other scientists have bred and released <a href="https://www.cimmyt.org/news/cimmyt-drought-tolerant-maize-a-key-innovation-for-millions-of-farmers-says-fao/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">160 drought-tolerant and disease-resistant varieties of maize</a>; in Zimbabwe, farmers who planted one of these varieties harvested enough extra maize to feed their families for nine months. And in California, researchers are using artificial intelligence and <a href="https://projectgemini.ucdavis.edu/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">3D models of crops</a> to help breeders develop seeds that will grow well in warmer, drier climates.</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQFNCxSTM7PPOQ/article-inline_image-shrink_400_744/0/1700367068123?e=1706140800&amp;v=beta&amp;t=1Eu8p7Gnzv1wg78DtWousuPPUtxIZ8w5CisSxMskwAs" src="https://media.licdn.com/dms/image/D5612AQFNCxSTM7PPOQ/article-inline_image-shrink_400_744/0/1700367068123?e=1706140800&amp;v=beta&amp;t=1Eu8p7Gnzv1wg78DtWousuPPUtxIZ8w5CisSxMskwAs" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">New varieties of cassava—a staple crop in Kenya and many other countries—are helping farmers like this one in Kenya grow more food even as the climate gets warmer.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Many smallholder farmers rely on <strong>livestock</strong> as well as crops—they’re a crucial source of income and nutrition for 750 million people in poor countries. <a href="https://www.ctlgh.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Researchers</a> in <a href="https://www.ilri.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Kenya</a> and <a href="https://www.ed.ac.uk/roslin" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Scotland</a> are identifying the genetic traits that help some chickens withstand heat and diseases, and then introducing those traits into poultry breeds that are prized for their high levels of meat and egg yields. And in Bangladesh, fish farmers are using <a href="https://worldfishcenter.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">genetically improved rohu</a>, an indigenous species of carp, that grow 20 to 30 percent faster than what most producers are currently cultivating. The goal is to steadily improve the growth rate of their fish by five to ten percent every two years.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Farmers don’t just need new seeds and crops—they also need up-to-date <strong>information</strong>. <a href="https://www.kaop.co.ke/index.php" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">One project</a> encourages East African farmers to sign up for texts containing climate-smart agriculture advice—including, eventually, whether a swarm of locusts might be coming. <a href="https://digifarmkenya.com/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Another effort</a>, in Kenya, lets farmers use their phones to buy seeds and fertilizer, get technical advice, apply for credit and crop insurance, and more. It already has 1.4 million subscribers.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Although artificial intelligence alone won’t solve the malnutrition problem, it will accelerate progress in all of these areas. Crop scientists are using it to create better seeds. In Tanzania, a computer scientist is developing an <a href="https://gcgh.grandchallenges.org/grant/integrated-ai-internet-things-iot-and-swahili-chatbot-agri-tech-solution-early-disease" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">AI-powered Swahili chatbot</a> that will help smallholder farmers detect crop diseases quickly and easily. A project in Uganda is looking at using ChatGPT to <a href="https://gcgh.grandchallenges.org/grant/analyzing-chatgpt-cross-lingual-localized-and-targeted-agricultural-advisory-smallholder" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">give smallholder farmers accurate agricultural advice</a> on a wide range of crops. And in Ghana, AI will help <a href="https://gcgh.grandchallenges.org/grant/supporting-field-agents-scale-climate-action" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">teach farmers climate-smart practices</a> like crop diversification.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">On the <strong>health</strong> front, scientific breakthroughs are coming faster than ever. Armed with the latest insights into the gut microbiome, doctors are now recommending a probiotic for babies that helps them absorb the nutrients in their mother’s milk. Researchers are also learning about how babies’ microbiomes vary by geography—children in India need a different probiotic from ones born in the United States—and using this knowledge to fine-tune their approaches.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">There’s progress in other fields too. AI models are accelerating the search for new drugs and vaccines by helping researchers zero in on the approaches that are most likely to work and rule out the ones that won’t. Advances in gene editing are creating new tools for fighting disease as temperatures rise; in Djibouti, for example, scientists and government officials are working together to use gene editing <a href="https://www.gatesnotes.com/Urban-mosquitoes-and-Oxitec?WT.mc_id=20231119180000_State-of-the-Transition_BG-LI_&amp;WT.tsrc=BGLI" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">to get rid of a deadly type of mosquito</a> that has recently moved into the country’s urban areas.</p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQHFDWTxp9NZdQ/article-inline_image-shrink_400_744/0/1700367250577?e=1706140800&amp;v=beta&amp;t=xxT5sKaQDh0f4QQ0CWSRzx0WgIfXwE2sfhOuvgaM50A" src="https://media.licdn.com/dms/image/D5612AQHFDWTxp9NZdQ/article-inline_image-shrink_400_744/0/1700367250577?e=1706140800&amp;v=beta&amp;t=xxT5sKaQDh0f4QQ0CWSRzx0WgIfXwE2sfhOuvgaM50A" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">A warmer climate is creating more habitable places for insects and the diseases they carry. Oxitec has developed a gene that when placed in a male mosquito will drive down the mosquito population in a specific area.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Of course, I think health and development would need to be priorities even if they had nothing to do with climate change. But they have a lot to do with it. People in poor countries will be in the best position to survive a warming climate if they are healthy and on a strong financial footing. And as countries’ economies grow, they'll be able to afford the clean-energy solutions that will get the world to net-zero emissions. Clean energy will only reach the scale we need if its price comes down and if incomes go up. Otherwise, countries will be stuck in debt or reliant on the limited and unpredictable aid money that flows from rich countries.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Now, there are some other adaptation strategies that should be used around the world; for example, countries need to shore up defenses against rising sea levels. They also need stronger early warning systems: The fires in Maui and floods in Libya would have killed fewer people if warning systems had been in place.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">But by maintaining efforts to improve the world’s health and development, we’ll ensure that progress on climate change has the greatest possible impact for human welfare. &nbsp;We won’t just keep the planet livable—we’ll make it a better place to live.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">You can read more about the Gates Foundation’s approach to helping people adapt to climate change <a href="https://www.gatesfoundation.org/ideas/climate-adaptation" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">on our website</a>.</p><h2 style="margin:0; font-weight:500; margin-left:0px; margin-right:0px; margin-top:1em; margin-bottom:0.5em; font-size:1.5em; line-height:1.25; letter-spacing:-0.02em">What to do next</h2><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">There are several steps the world can take to speed up the pace of innovation, make sure it benefits the world’s poorest people, and cushion the blow from rising temperatures.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Philanthropists, governments, and companies should <strong>make big bets now</strong> that will help crucial innovations—including clean hydrogen, electricity transmission, and <a href="https://transition.breakthroughenergy.org/carbon-management/?utm_source=GV&amp;utm_medium=social&amp;utm_campaign=2023TransitionReport&amp;utm_term=All" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">carbon removal</a>—get developed and deployed as quickly as possible. <strong>Funding clean-energy research</strong> not only gives us new tools to reduce emissions, it also creates jobs and makes clean energy cheaper for everyone. It’s estimated that the U.S. Inflation Reduction Act will <a href="https://climatepower.us/wp-content/uploads/sites/23/2023/07/Clean-Energy-Boom-Anniversary-Report-1.pdf" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">create more than 170,000 clean energy jobs</a>, including electricians, mechanics, construction workers, technicians, and support staff.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Companies and governments—and individuals who can afford it—should use their purchasing power to <strong>create demand for low-carbon</strong> <strong>products</strong> such as electric vehicles, alternative meats, and electric heat pumps, which will attract more innovators and ultimately drive prices down.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5"><strong>Grants—and loans with the lowest interest rates—should go to low-income countries</strong> so they have the best opportunity to adapt successfully to climate change. Right now, the poorest countries in the world are borrowing money and then getting saddled with debt payments to adapt to climate change that they did not cause. This is not fair or effective—and it’s leaving them with less money to help their own people.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">The world also needs to <strong>accelerate research on crop varieties </strong>that can withstand climate shocks. To make these crops affordable for smallholder farmers, countries should meet the commitment they made in 2021 and <strong>double the amount of funding for adaptation</strong> by 2025. This should include fully funding the network of agricultural research groups known as <a href="https://www.cgiar.org/" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">CGIAR</a>.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">Finally, we should <strong>elevate health and development as a priority</strong> <strong>alongside climate</strong>. That means fully funding basic health care in low-income countries. And from now on, every COP should have a day dedicated to health—as COP28 does—where the world reviews progress on the <a href="https://sdgs.un.org/goals" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Sustainable Development Goals</a> and focuses on the people who will be hit hardest by climate change. </p><img data-media-urn="" data-li-src="https://media.licdn.com/dms/image/D5612AQGHcA_vW_5BBA/article-inline_image-shrink_400_744/0/1700367496916?e=1706140800&amp;v=beta&amp;t=9ZEybMueTDqunmO7n49iY_VqyQ2fFIVVsWSgt5GK7TQ" src="https://media.licdn.com/dms/image/D5612AQGHcA_vW_5BBA/article-inline_image-shrink_400_744/0/1700367496916?e=1706140800&amp;v=beta&amp;t=9ZEybMueTDqunmO7n49iY_VqyQ2fFIVVsWSgt5GK7TQ" width="480" style="outline:none; text-decoration:none; margin-top:1em; display:block; max-width:100%"><em style="font-style:italic">Climate and health work should prioritize the needs of people in low- and middle-income countries, like these students in Uganda.</em><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">When COVID struck, the world wasn’t ready. The limited money that was available to help came at the expense of other lifesaving efforts—causing a major setback for nutrition, polio, malaria, and immunization. We should learn from this mistake and respond to the risk of a climate disaster equitably while we regain and maintain our progress on these other priorities. By investing in innovation that works for everyone, we can tackle the world’s biggest threats to human lives and livelihoods and get closer to a truly equitable world.</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">--</p><p style="margin:0; font-weight:400; margin-top:0.8em; font-size:1em; line-height:1.5">You can join the conversation in the comments and become a <a href="https://www.gatesnotes.com/signup?WT.mc_id=20231119180000_State-of-the-Transition_BG-LI_&amp;WT.tsrc=BGLI" target="_blank" rel="nofollow noopener" style="text-decoration:none; display:inline; font-weight:600; color:#0a66c2; text-decoration-line:none">Gates Notes Insider</a> to get regular updates from Bill on topics like climate change, global health and innovation, to access exclusive content, participate in giveaways, and more.</p></td></tr><tr><td class="pt-2 no-underline" style="padding-top:16px; text-decoration-line:none"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" class="email-button " data-test-id="email-button" style=""><tbody><tr><td valign="middle" align="left" style=""><a href="https://www.linkedin.com/comm/pulse/dont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-readmore_button_&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-readmore_button_-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" aria-label="Join the conversation" class="align-top no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; vertical-align:top; text-decoration-line:none"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="auto" class="border-separate" style="border-collapse:separate"><tbody><tr><td class="btn-md btn-primary border-color-brand button-link leading-regular !min-h-[auto] !shadow-none border-1 border-solid" style="height:min-content; border-radius:24px; padding-top:12px; padding-bottom:12px; padding-left:24px; padding-right:24px; text-align:center; font-size:16px; font-weight:600; text-decoration-line:none; background-color:#0a66c2; color:#ffffff; border-width:1px; border-style:solid; border-color:#0a66c2; line-height:1.25; min-height:auto!important; box-shadow:0 0 #0000,0 0 #0000,0 0 #0000!important"><a href="https://www.linkedin.com/comm/pulse/dont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-readmore_button_&amp;trkEmail=eml-email_series_follow_newsletter_01-newsletter_content_preview-0-readmore_button_-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" tabindex="-1" aria-hidden="true" class="no-underline" style="color:#0a66c2; display:inline-block; text-decoration:none; text-decoration-line:none"><span class="no-underline text-white" style="color:#ffffff; text-decoration-line:none">Join the conversation </span></a></td></tr></tbody></table></a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td class="px-3 pt-2" style="padding-left:24px; padding-right:24px; padding-top:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" style=""><tbody><tr><td align="left" style="">Know someone who might be interested in this newsletter? Share it with them. </td></tr><tr><td class="pt-2" align="center" style="padding-top:16px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="75%" class="mx-auto" style="margin-left:auto; margin-right:auto"><tbody><tr align="middle"><td style=""><a href="https://www.linkedin.com/e/v2?urlhash=AQs0&amp;url=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2FshareArticle%3Furl%3Dhttps%253A%252F%252Fwww%252Elinkedin%252Ecom%252Fpulse%252Fdont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;ek=email_series_follow_newsletter_01&amp;e=7hljz9-lp50kjo9-y7&amp;eid=7hljz9-lp50kjo9-y7&amp;m=newsletter_social_upsell&amp;ts=linkedin_upsell_cta&amp;li=0&amp;t=plh" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="h-3 w-3 align-middle" src="https://static.licdn.com/aero-v1/sc/h/dxxwa7aq3z1rmvz7wmodrbt4k" alt="Share this series on LinkedIn" width="24" height="24" style="outline:none; text-decoration:none; height:24px; width:24px; vertical-align:middle"> </a></td><td style=""><a href="https://www.linkedin.com/e/v2?urlhash=3upB&amp;url=https%3A%2F%2Fwww%2Efacebook%2Ecom%2Fsharer%2Fsharer%2Ephp%3Fu%3Dhttps%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpulse%2Fdont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;ek=email_series_follow_newsletter_01&amp;e=7hljz9-lp50kjo9-y7&amp;eid=7hljz9-lp50kjo9-y7&amp;m=newsletter_social_upsell&amp;ts=facebook_upsell_cta&amp;li=0&amp;t=plh" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="h-3 w-3 align-middle" src="https://static.licdn.com/aero-v1/sc/h/dpe078783oyfx6qjv3mt2avpn" alt="Share this series on Facebook" width="24" height="24" style="outline:none; text-decoration:none; height:24px; width:24px; vertical-align:middle"> </a></td><td style=""><a href="https://www.linkedin.com/e/v2?urlhash=SYuZ&amp;url=https%3A%2F%2Fwww%2Etwitter%2Ecom%2Fintent%2Ftweet%3Furl%3Dhttps%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fpulse%2Fdont-let-grim-headlines-obscure-progress-climate-change-bill-gates-tpiec&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;ek=email_series_follow_newsletter_01&amp;e=7hljz9-lp50kjo9-y7&amp;eid=7hljz9-lp50kjo9-y7&amp;m=newsletter_social_upsell&amp;ts=twitter_upsell_cta&amp;li=0&amp;t=plh" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img class="h-3 w-3 align-middle" src="https://static.licdn.com/aero-v1/sc/h/1xn78fnzsemwl5bquyh865evs" alt="Share this series on Twitter" width="24" height="24" style="outline:none; text-decoration:none; height:24px; width:24px; vertical-align:middle"> </a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></td></tr><tr><td class="bg-color-background-canvas p-3" style="background-color:#f3f2f0; padding:24px"><table role="presentation" valign="top" border="0" cellspacing="0" cellpadding="0" width="100%" class="text-xs" style="font-size:12px"><tbody><tr><td class="pb-1 m-0" style="margin:0px; padding-bottom:8px">This email was intended for Abdulrahman Bin Ghaith (CEO at Mustadem) </td></tr><tr><td class="pb-1 m-0" style="margin:0px; padding-bottom:8px"><a href="https://www.linkedin.com/help/linkedin/answer/4788?lang=en&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-SecurityHelp-0-footerglimmer&amp;trkEmail=eml-email_series_follow_newsletter_01-SecurityHelp-0-footerglimmer-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none">Learn why we included this.</a> </td></tr><tr><td class="pb-1 m-0" style="margin:0px; padding-bottom:8px">You are receiving LinkedIn notification emails. Others can see that you are a subscriber.</td></tr><tr><td class="pb-1 m-0" style="margin:0px; padding-bottom:8px"><a href="https://www.linkedin.com/newsletters/6651495472181637121?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;ek=email_series_follow_newsletter_01&amp;e=7hljz9-lp50kjo9-y7&amp;eid=7hljz9-lp50kjo9-y7&amp;m=unsubscribe&amp;ts=footerGlimmer&amp;li=0&amp;t=plh" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none">Unsubscribe</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://www.linkedin.com/help/linkedin/answer/67?lang=en&amp;lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-help-0-footerglimmer&amp;trkEmail=eml-email_series_follow_newsletter_01-help-0-footerglimmer-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none">Help</a> </td></tr><tr><td class="pb-1" style="padding-bottom:8px"><a href="https://www.linkedin.com/comm/feed/?lipi=urn%3Ali%3Apage%3Aemail_email_series_follow_newsletter_01%3Bd%2F3y37InRfa7ExoKus0z3A%3D%3D&amp;midToken=AQEYS809b3Swmw&amp;midSig=10Tdbk6dMMrr01&amp;trk=eml-email_series_follow_newsletter_01-footer-0-logoGlimmer&amp;trkEmail=eml-email_series_follow_newsletter_01-footer-0-logoGlimmer-null-7hljz9~lp50kjo9~y7-null-null&amp;eid=7hljz9-lp50kjo9-y7&amp;otpToken=MTYwMDFjZTgxMDJjY2FjM2I3MjQwNGVkNDYxZWU0YjM4ZmNjZDk0NTlhYWQ4NzYxNzljNDAzNmQ0NzUzNWFmYmY3ZDJkZmEwNTJmM2Y4ODEwMGZkZWE1NDIzYTNiNWE2NWY5MDhhMzIwZjBmNDY5N2YxZDRlMywxLDE%3D" target="_blank" style="color:#0a66c2; display:inline-block; text-decoration:none"><img src="https://static.licdn.com/aero-v1/sc/h/9ehe6n39fa07dc5edzv0rla4e" alt="LinkedIn" class="block h-[14px] w-[56px] image-rendering-crisp" width="56" height="14" style="outline:none; text-decoration:none; display:block; height:14px; width:56px"> </a></td></tr><tr><td data-test-copyright-text="" style="">© 2023 LinkedIn Corporation, 1‌000 West Maude Avenue, Sunnyvale, CA 94085. <span data-test-trademarks-text="">LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn. </span></td></tr></tbody></table></td></tr></tbody></table><img alt="" role="presentation" src="https://www.linkedin.com/emimp/ip_TjJoc2FubzVMV3h3TlRCcmFtODVMWGszOlpXMWhhV3hmYzJWeWFXVnpYMlp2Ykd4dmQxOXVaWGR6YkdWMGRHVnlYekF4OmRYSnVPbXhwT214cGJtdGxaRWx1UVhKMGFXTnNaVG8zTVRNd09UWTROakl4TWpBek1qVTVNemt6.gif" width="1" height="1" style="outline:none; text-decoration:none; width:1px; height:1px"> </body></html>
